@@ -1,3 +1,87 @@
 <resources>
-    <string name="app_name">androidTakecare</string>
+    <string name="app_name">TAKE CARE</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="reminder_text">%1$s: %2$s pill(s)</string>
+    <string name="pill_time_reminders_format">%1$s at %2$s</string>
+    <string name="it_is_time_to_take">It is time to take %1$s pill(s)!</string>
+    <string name="dropdown_label">Disease Name:</string>
+    <string name="disease_name">Disease Name</string>
+    <string name="specialization"> Specialization</string>
+    <string name="situation">Situation</string>
+    <string name="tools">Tools</string>
+    <string-array name="dropdown_items">
+        <item>Fever</item>
+        <item>Cold</item>
+        <item>Diarrhea</item>
+        <item>Allergies</item>
+        <item>Stomach Aches</item>
+    </string-array>
+    <string-array name="symptom_list">
+        <item>SELECT SYMPTOM</item>
+        <item>Anxiety</item>
+        <item>Stomach Ache</item>
+        <item>Nausea</item>
+        <item>Vomiting</item>
+        <item>Fever</item>
+        <item>Sudden Weight Loss</item>
+        <item>Sweating</item>
+        <item>Muscle And Body Pain</item>
+        <item>Thirsty Than Usual</item>
+        <item>Headaches</item>
+        <item>Weakness/Fatigue</item>
+        <item>Abdominal Pain</item>
+        <item>Muscle Pain</item>
+        <item>Dry Cough</item>
+        <item>Diarrhoea/Constipation</item>
+        <item>Frequent Urination</item>
+        <item>Hunger</item>
+        <item>Blurred Vision</item>
+        <item>Skin Itching</item>
+        <item>Chest Pain</item>
+        <item>Shortness in Breath</item>
+        <item>Dizziness</item>
+        <item>Fast Heartbeat</item>
+        <item>Indigestion</item>
+        <item>Pressure Or Heaviness In Chest</item>
+
+    </string-array>
+    <string name="teit_error_text">This field is mandatory</string>
+    <string name="del_reminder_dialog_negative_button">Cancel</string>
+    <string name="ra_empty_state_title">No Reminders</string>
+    <string name="ra_empty_state_text">Add a reminder and it will appear here</string>
+    <string name="ra_copy_confirmation_text">Reminder title copied</string>
+    <string name="delete_reminder_dialog_title">Delete Reminder</string>
+    <string name="delete_reminder_dialog_message">This action cannot be undone</string>
+    <string name="delete_reminder_dialog_positive_button">Delete</string>
+    <string name="copy">Copy</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="new_reminder">new Reminder</string>
+    <string name="reminder_set_c">Reminder Set</string>
+    <string name="channel_name">Reminder Notification</string>
+    <string name="channel_description">Reminders</string>
+    <string name="r_r_title">rRTitle</string>
+    <string name="notification_ctitle">Reminder</string>
+    <string name="title">Title</string>
+    <string name="help_activity_action_bar_title">Help</string>
+    <string name="send_feedback">Send Feedback</string>
+    <string name="selected_language">English</string>
+    <string name="language">Hi, GFG</string>
+    <string name="update_app_informative_text">A new version is available</string>
+    <string name="update_app_button_text">UPDATE</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="title_activity_main">MainActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_checker">CheckerActivity</string>
+    <string name="for_more_information_click_here">For more Information, click HERE</string>
+    <string name="title_activity_maps">MapsActivity</string>
 </resources>
