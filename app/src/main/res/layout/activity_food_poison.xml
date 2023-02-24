@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DogBite">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true"
+        tools:layout_editor_absoluteX="1dp"
+        tools:layout_editor_absoluteY="1dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="60dp"
+                android:layout_marginRight="30dp"
+                android:text="First aid treatment for Food Poisoning :"
+                android:textColor="#000000"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="202dp"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginRight="30dp"
+                android:src="@drawable/foodpoi" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginRight="30dp"
+                android:text="Food poisoning is an illness caused by eating contaminated food, which may contain harmful bacteria, viruses, or other toxins. Symptoms can include nausea, vomiting, diarrhea, stomach pain, and fever.Prevention involves proper food handling and storage, cooking food to the appropriate temperature, and avoiding high-risk foods."
+                android:textColor="#000000"
+                android:textSize="16sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginRight="30dp"
+                android:text="First aid for Food Poisoning: "
+                android:textColor="#000000"
+                android:textSize="17sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginRight="30dp"
+                android:text="1. Stay hydrated: Drink plenty of water to replace the fluids lost due to vomiting and diarrhea."
+                android:textColor="#252525"
+                android:textSize="17sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginRight="30dp"
+                android:text="2. Rest: Take rest to help your body recover and avoid any strenuous physical activity."
+                android:textColor="#252525"
+                android:textSize="17sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginRight="30dp"
+                android:text="3. Avoid solid food: Stick to clear fluids, such as water, broth, or an oral rehydration solution. Avoid solid foods until your symptoms subside."
+                android:textColor="#252525"
+                android:textSize="17sp" />
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginRight="30dp"
+                android:text="Do's: "
+                android:textColor="#000000"
+                android:textSize="17sp"
+                android:textStyle="bold" />
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginRight="30dp"
+                android:text="Rest and stay hydrated by drinking water or clear fluids such as oral rehydration solutions or broths."
+                android:textColor="#252525"
+                android:textSize="17sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginRight="30dp"
+                android:text="Gradually introduce small amounts of food such as crackers, toast, and bananas to help ease stomach upset and nausea."
+                android:textColor="#252525"
+                android:textSize="17sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginRight="30dp"
+                android:text="Contact a healthcare provider if symptoms persist or worsen, or if you have concerns about your condition."
+                android:textColor="#252525"
+                android:textSize="17sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginRight="30dp"
+                android:text="Seek emergency medical attention if you experience severe symptoms such as dehydration, bloody diarrhea, high fever, or severe abdominal pain."
+                android:textColor="#252525"
+                android:textSize="17sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginRight="30dp"
+                android:text="Don 'ts: "
+                android:textColor="#000000"
+                android:textSize="17sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginRight="30dp"
+                android:text="Don't eat solid foods or foods that are greasy, spicy, or high in fiber that may aggravate your digestive system."
+                android:textColor="#252525"
+                android:textSize="17sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginRight="30dp"
+                android:text="Don't take antibiotics without a prescription from a healthcare provider as it can worsen the condition."
+                android:textColor="#252525"
+                android:textSize="17sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginRight="30dp"
+                android:text="Don't take anti-vomiting medication unless recommended by a healthcare provider, as vomiting may be a necessary way for your body to get rid of harmful toxins."
+                android:textColor="#252525"
+                android:textSize="17sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginRight="30dp"
+                android:text="Don't ignore symptoms, especially if you are pregnant, elderly, or have a weakened immune system, as they are more susceptible to severe food poisoning."
+                android:textColor="#252525"
+                android:textSize="17sp" />
+
+
+        </LinearLayout>
+    </ScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DogBite">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true"
+        tools:layout_editor_absoluteX="1dp"
+        tools:layout_editor_absoluteY="1dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="60dp"
+                android:layout_marginRight="30dp"
+                android:text="What you should do in Viral infection :"
+                android:textColor="#000000"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="202dp"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginRight="30dp"
+                android:src="@drawable/viralinf" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginRight="30dp"
+                android:text="A viral infection is caused by a virus that can affect different parts of the body and cause a range of symptoms. Examples include the flu, colds, and COVID-19. Viruses are very small and can replicate in living cells. Treatment for viral infections typically involves managing symptoms while the body fights off the virus, with antiviral medications used in some cases."
+                android:textColor="#000000"
+                android:textSize="16sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginRight="30dp"
+                android:text="First aid for Viral Infection : "
+                android:textColor="#000000"
+                android:textSize="17sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginRight="30dp"
+                android:text="There is no specific first aid treatment for viral infections, as they are typically managed through doctor visit, self-care and medication to alleviate symptoms. However, here are some general do's and don'ts to follow when dealing with a viral infection:"
+                android:textColor="#252525"
+                android:textSize="17sp" />
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginRight="30dp"
+                android:text="Do's: "
+                android:textColor="#000000"
+                android:textSize="17sp"
+                android:textStyle="bold" />
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginRight="30dp"
+                android:text="Stay home and rest to avoid spreading the infection to others"
+                android:textColor="#252525"
+                android:textSize="17sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginRight="30dp"
+                android:text="Drink plenty of fluids, such as water, juice, and soup, to stay hydrated"
+                android:textColor="#252525"
+                android:textSize="17sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginRight="30dp"
+                android:text="Use over-the-counter medications, such as pain relievers and fever reducers, to manage symptoms"
+                android:textColor="#252525"
+                android:textSize="17sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginRight="30dp"
+                android:text="Follow good hygiene practices, such as washing your hands frequently and covering your mouth and nose when you cough or sneeze"
+                android:textColor="#252525"
+                android:textSize="17sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginRight="30dp"
+                android:text="Contact a healthcare provider if symptoms persist or worsen, or if you have concerns about your condition"
+                android:textColor="#252525"
+                android:textSize="17sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginRight="30dp"
+                android:text="Don 'ts: "
+                android:textColor="#000000"
+                android:textSize="17sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginRight="30dp"
+                android:text="Don't go to work, school, or other public places until you are no longer contagious
+"
+                android:textColor="#252525"
+                android:textSize="17sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginRight="30dp"
+                android:text="Don't share personal items, such as towels or utensils, with others"
+                android:textColor="#252525"
+                android:textSize="17sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginRight="30dp"
+                android:text="Don't take antibiotics, as they are not effective against viral infections"
+                android:textColor="#252525"
+                android:textSize="17sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginRight="30dp"
+                android:text="Don't ignore symptoms or delay seeking medical attention if you have underlying health conditions or if symptoms are severe"
+                android:textColor="#252525"
+                android:textSize="17sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginRight="30dp"
+                android:text="Don't panic or engage in activities that may increase your risk of contracting or spreading the virus, such as attending large gatherings or ignoring public health guidelines"
+                android:textColor="#252525"
+                android:textSize="17sp" />
+
+
+        </LinearLayout>
+    </ScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>
