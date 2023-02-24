@@ -84,4 +84,5 @@
     <string name="title_activity_checker">CheckerActivity</string>
     <string name="for_more_information_click_here">For more Information, click HERE</string>
     <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_main_activityerr">MainActivityerr</string>
 </resources>
