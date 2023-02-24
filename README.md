@@ -1,6 +1,6 @@
 {
 "project_info":{
-  "project-number":"623113743812",
+  "project_number":"623113743812",
   "firebase_url": "https://hellfire-health-default-rtdb.firebaseio.com",
   "project_id":"hellfire-health",
   "storage_bucket": "hellfire-health.appspot.com"
