@@ -43,6 +43,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="151dp"
                 android:layout_marginTop="100dp"
+                android:background="@null"
                 android:scaleType="centerInside"
                 app:srcCompat="@drawable/ambulance" />
 
@@ -51,6 +52,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="151dp"
                 android:layout_marginTop="270dp"
+                android:background="@null"
                 android:scaleType="centerInside"
                 app:srcCompat="@drawable/police" />
 
@@ -59,6 +61,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="151dp"
                 android:layout_marginTop="440dp"
+                android:background="@null"
                 android:scaleType="centerInside"
                 app:srcCompat="@drawable/nationalemergency" />
 
@@ -67,6 +70,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="151dp"
                 android:layout_marginTop="610dp"
+                android:background="@null"
                 android:scaleType="centerInside"
                 app:srcCompat="@drawable/fire" />
 
@@ -75,6 +79,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="151dp"
                 android:layout_marginTop="780dp"
+                android:background="@null"
                 android:scaleType="centerInside"
                 app:srcCompat="@drawable/disastermgmt" />
 
@@ -83,6 +88,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="151dp"
                 android:layout_marginTop="950dp"
+                android:background="@null"
                 android:scaleType="centerInside"
                 app:srcCompat="@drawable/roadaccident" />
 
@@ -91,6 +97,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="151dp"
                 android:layout_marginTop="1120dp"
+                android:background="@null"
                 android:scaleType="centerInside"
                 app:srcCompat="@drawable/seniorcitizen" />
 
@@ -99,6 +106,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="151dp"
                 android:layout_marginTop="1290dp"
+                android:background="@null"
                 android:scaleType="centerInside"
                 app:srcCompat="@drawable/womenshelp" />
 
@@ -107,9 +115,9 @@
                 android:layout_width="match_parent"
                 android:layout_height="151dp"
                 android:layout_marginTop="1460dp"
+                android:background="@null"
                 android:scaleType="centerInside"
-                app:srcCompat="@drawable/lpgleak"/>
-
+                app:srcCompat="@drawable/lpgleak" />
 
 
         </RelativeLayout>
