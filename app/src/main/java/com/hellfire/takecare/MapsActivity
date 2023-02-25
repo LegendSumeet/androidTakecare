@@ -1,0 +1,269 @@
+package com.geekymusketeers.medify;
+
+import androidx.fragment.app.FragmentActivity;
+
+import android.os.Bundle;
+
+import com.google.android.gms.maps.CameraUpdateFactory;
+import com.google.android.gms.maps.GoogleMap;
+import com.google.android.gms.maps.OnMapReadyCallback;
+import com.google.android.gms.maps.SupportMapFragment;
+import com.google.android.gms.maps.model.CameraPosition;
+import com.google.android.gms.maps.model.LatLng;
+import com.google.android.gms.maps.model.MarkerOptions;
+import com.geekymusketeers.medify.databinding.ActivityMapsBinding;
+
+public class MapsActivity extends FragmentActivity implements OnMapReadyCallback {
+
+    private GoogleMap mMap;
+    private ActivityMapsBinding binding;
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+
+        binding = ActivityMapsBinding.inflate(getLayoutInflater());
+        setContentView(binding.getRoot());
+
+        // Obtain the SupportMapFragment and get notified when the map is ready to be used.
+        SupportMapFragment mapFragment = (SupportMapFragment) getSupportFragmentManager()
+                .findFragmentById(R.id.map);
+        mapFragment.getMapAsync(this);
+    }
+
+    /**
+     * Manipulates the map once available.
+     * This callback is triggered when the map is ready to be used.
+     * This is where we can add markers or lines, add listeners or move the camera. In this case,
+     * we just add a marker near Sydney, Australia.
+     * If Google Play services is not installed on the device, the user will be prompted to install
+     * it inside the SupportMapFragment. This method will only be triggered once the user has
+     * installed Google Play services and returned to the app.
+     */
+    @Override
+    public void onMapReady(GoogleMap googleMap) {
+        mMap = googleMap;
+        LatLng hospitalLatLng = new LatLng(19.21662456493429, 73.0828609002468);
+        // Add a marker in Sydney and move the camera
+        LatLng sydney = new LatLng(-34, 151);
+        mMap.addMarker(new MarkerOptions().position(sydney).title("Marker in Sydney"));
+        mMap.moveCamera(CameraUpdateFactory.newLatLng(sydney));
+
+        CameraPosition googlePlex = CameraPosition.builder()
+                .target(hospitalLatLng)
+                .zoom(16f)
+                .bearing(0)
+                .tilt(45)
+                .build();
+        mMap.addMarker(new MarkerOptions().position(hospitalLatLng).title("KALYAN HOSPITAL"));
+        mMap.animateCamera(CameraUpdateFactory.newCameraPosition(googlePlex), 2000, null);LatLng sydney = new LatLng(-34, 151);
+
+   
+        LatLng hospitalLatLng = new LatLng(19.03122191006914, 72.86681592400076);
+        CameraPosition googlePlex = CameraPosition.builder()
+                .target(hospitalLatLng)
+                .zoom(16f)
+                .bearing(0)
+                .tilt(45)
+                .build();
+        mMap.addMarker(new MarkerOptions().position(hospitalLatLng).title("Pooja Nursing Home"));
+        mMap.animateCamera(CameraUpdateFactory.newCameraPosition(googlePlex), 2000, null);
+
+
+        LatLng hospitalLatLng = new LatLng(19.02958055071627, 72.8554241737601);
+        CameraPosition googlePlex = CameraPosition.builder()
+                .target(hospitalLatLng)
+                .zoom(16f)
+                .bearing(0)
+                .tilt(45)
+                .build();
+        mMap.addMarker(new MarkerOptions().position(hospitalLatLng).title("Nirmal Hospital"));
+
+        mMap.animateCamera(CameraUpdateFactory.newCameraPosition(googlePlex), 2000, null);
+        
+        LatLng hospitalLatLng = new LatLng(19.02737028570604, 72.85576254096122);
+        CameraPosition googlePlex = CameraPosition.builder()
+                .target(hospitalLatLng)
+                .zoom(16f)
+                .bearing(0)
+                .tilt(45)
+                .build();
+        mMap.addMarker(new MarkerOptions().position(hospitalLatLng).title("Sobti Hospital"));
+        mMap.animateCamera(CameraUpdateFactory.newCameraPosition(googlePlex), 2000, null);
+     
+       
+       LatLng hospitalLatLng = new LatLng(19.026518301439154, 72.85456091136986);
+        CameraPosition googlePlex = CameraPosition.builder()
+                .target(hospitalLatLng)
+                .zoom(16f)
+                .bearing(0)
+                .tilt(45)
+                .build();
+        mMap.addMarker(new MarkerOptions().position(hospitalLatLng).title("Matunga Clinic & Hospital"));
+        mMap.animateCamera(CameraUpdateFactory.newCameraPosition(googlePlex), 2000, null);
+
+        LatLng hospitalLatLng = new LatLng(19.034012201017376, 72.86687224983666);
+        CameraPosition googlePlex = CameraPosition.builder()
+                .target(hospitalLatLng)
+                .zoom(16f)
+                .bearing(0)
+                .tilt(45)
+                .build();
+        mMap.addMarker(new MarkerOptions().position(hospitalLatLng).title("Antop Hill Hospital"));
+        mMap.animateCamera(CameraUpdateFactory.newCameraPosition(googlePlex), 2000, null);
+        
+        LatLng hospitalLatLng = new LatLng(19.037703934721076, 72.86004871049603);
+        CameraPosition googlePlex = CameraPosition.builder()
+                .target(hospitalLatLng)
+                .zoom(16f)
+                .bearing(0)
+                .tilt(45)
+                .build();
+        mMap.addMarker(new MarkerOptions().position(hospitalLatLng).title("Sion Hospital"));
+        mMap.animateCamera(CameraUpdateFactory.newCameraPosition(googlePlex), 2000, null);
+
+
+        LatLng hospitalLatLng = new LatLng(19.031637748419463, 72.87145483422057);
+        CameraPosition googlePlex = CameraPosition.builder()
+                .target(hospitalLatLng)
+                .zoom(16f)
+                .bearing(0)
+                .tilt(45)
+                .build();
+        mMap.addMarker(new MarkerOptions().position(hospitalLatLng).title("Dr. Mukesh Bhanushali's Clinic"));
+        mMap.animateCamera(CameraUpdateFactory.newCameraPosition(googlePlex), 2000, null);
+
+        LatLng hospitalLatLng = new LatLng(19.039868088600585, 72.86206055884277);
+        CameraPosition googlePlex = CameraPosition.builder()
+                .target(hospitalLatLng)
+                .zoom(16f)
+                .bearing(0)
+                .tilt(45)
+                .build();
+        mMap.addMarker(new MarkerOptions().position(hospitalLatLng).title("New Sunita Hospital"));
+        mMap.animateCamera(CameraUpdateFactory.newCameraPosition(googlePlex), 2000, null);
+
+        LatLng hospitalLatLng = new LatLng(19.047439799350524, 72.84293655633878);
+        CameraPosition googlePlex = CameraPosition.builder()
+                .target(hospitalLatLng)
+                .zoom(16f)
+                .bearing(0)
+                .tilt(45)
+                .build();
+        mMap.addMarker(new MarkerOptions().position(hospitalLatLng).title("S L Raheja Hospital - Fortis"));
+        mMap.animateCamera(CameraUpdateFactory.newCameraPosition(googlePlex), 2000, null);
+
+        LatLng hospitalLatLng = new LatLng(19.041273702664967, 72.85160545530857);
+        CameraPosition googlePlex = CameraPosition.builder()
+                .target(hospitalLatLng)
+                .zoom(16f)
+                .bearing(0)
+                .tilt(45)
+                .build();
+        mMap.addMarker(new MarkerOptions().position(hospitalLatLng).title("Si hospital"));
+        mMap.animateCamera(CameraUpdateFactory.newCameraPosition(googlePlex), 2000, null);
+
+        LatLng hospitalLatLng = new LatLng(19.040218952659416, 72.84954551891971);
+        CameraPosition googlePlex = CameraPosition.builder()
+                .target(hospitalLatLng)
+                .zoom(16f)
+                .bearing(0)
+                .tilt(45)
+                .build();
+        mMap.addMarker(new MarkerOptions().position(hospitalLatLng).title("Mahanagar Palika Hospital"));
+        mMap.animateCamera(CameraUpdateFactory.newCameraPosition(googlePlex), 2000, null);
+
+        LatLng hospitalLatLng = new LatLng(19.03534211237022, 72.8389370190034);
+        CameraPosition googlePlex = CameraPosition.builder()
+                .target(hospitalLatLng)
+                .zoom(16f)
+                .bearing(0)
+                .tilt(45)
+                .build();
+        mMap.addMarker(new MarkerOptions().position(hospitalLatLng).title("Hinduja Hospital OPD Building"));
+        mMap.animateCamera(CameraUpdateFactory.newCameraPosition(googlePlex), 2000, null);
+
+
+        LatLng hospitalLatLng = new LatLng(19.02512945703856, 72.8428212723084);
+        CameraPosition googlePlex = CameraPosition.builder()
+                .target(hospitalLatLng)
+                .zoom(16f)
+                .bearing(0)
+                .tilt(45)
+                .build();
+        mMap.addMarker(new MarkerOptions().position(hospitalLatLng).title("Diwan hospital"));
+        mMap.animateCamera(CameraUpdateFactory.newCameraPosition(googlePlex), 2000, null);
+
+        LatLng hospitalLatLng = new LatLng(19.04142350766467, 72.85447403222344);
+        CameraPosition googlePlex = CameraPosition.builder()
+                .target(hospitalLatLng)
+                .zoom(16f)
+                .bearing(0)
+                .tilt(45)
+                .build();
+        mMap.addMarker(new MarkerOptions().position(hospitalLatLng).title("AAYUSH HOSPITAL"));
+        mMap.animateCamera(CameraUpdateFactory.newCameraPosition(googlePlex), 2000, null);
+
+
+       LatLng hospitalLatLng = new LatLng(19.051692354225892, 72.82917318178296);
+        CameraPosition googlePlex = CameraPosition.builder()
+                .target(hospitalLatLng)
+                .zoom(16f)
+                .bearing(0)
+                .tilt(45)
+                .build();
+        mMap.addMarker(new MarkerOptions().position(hospitalLatLng).title("Lilavati Hospital And Research Centre"));
+        mMap.animateCamera(CameraUpdateFactory.newCameraPosition(googlePlex), 2000, null);
+
+        LatLng hospitalLatLng = new LatLng(19.0310238263901, 72.84102407628293);
+        CameraPosition googlePlex = CameraPosition.builder()
+                .target(hospitalLatLng)
+                .zoom(16f)
+                .bearing(0)
+                .tilt(45)
+                .build();
+        mMap.addMarker(new MarkerOptions().position(hospitalLatLng).title("suvidha hospital"));
+        mMap.animateCamera(CameraUpdateFactory.newCameraPosition(googlePlex), 2000, null);
+
+        LatLng hospitalLatLng = new LatLng(19.018918712674797, 72.8676300042663);
+        CameraPosition googlePlex = CameraPosition.builder()
+                .target(hospitalLatLng)
+                .zoom(16f)
+                .bearing(0)
+                .tilt(45)
+                .build();
+        mMap.addMarker(new MarkerOptions().position(hospitalLatLng).title("R S V hospital"));
+        mMap.animateCamera(CameraUpdateFactory.newCameraPosition(googlePlex), 2000, null);
+
+        LatLng hospitalLatLng = new LatLng(19.030116383703273, 72.8519229893012);
+        CameraPosition googlePlex = CameraPosition.builder()
+                .target(hospitalLatLng)
+                .zoom(16f)
+                .bearing(0)
+                .tilt(45)
+                .build();
+        mMap.addMarker(new MarkerOptions().position(hospitalLatLng).title("Raheja Fortis associate Hospital , Mahim"));
+        mMap.animateCamera(CameraUpdateFactory.newCameraPosition(googlePlex), 2000, null);
+
+        LatLng hospitalLatLng = new LatLng(19.014455639628242, 72.86217338021925);
+        CameraPosition googlePlex = CameraPosition.builder()
+                .target(hospitalLatLng)
+                .zoom(16f)
+                .bearing(0)
+                .tilt(45)
+                .build();
+        mMap.addMarker(new MarkerOptions().position(hospitalLatLng).title("MbPT Hospital Entrance"));
+        mMap.animateCamera(CameraUpdateFactory.newCameraPosition(googlePlex), 2000, null);
+
+        LatLng hospitalLatLng = new LatLng(19.01812264202373, 72.84676074052732);
+        CameraPosition googlePlex = CameraPosition.builder()
+                .target(hospitalLatLng)
+                .zoom(16f)
+                .bearing(0)
+                .tilt(45)
+                .build();
+        mMap.addMarker(new MarkerOptions().position(hospitalLatLng).title("Dr .amonkars"));
+        mMap.animateCamera(CameraUpdateFactory.newCameraPosition(googlePlex), 2000, nul
+
+    }
+}
