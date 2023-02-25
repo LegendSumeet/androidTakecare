@@ -20,6 +20,9 @@
         android:theme="@style/Theme.Medify"
         tools:targetApi="31">
         <activity
+            android:name=".SOSdialer"
+            android:exported="false" />
+        <activity
             android:name=".FirstaidTab"
             android:exported="false" />
         <activity

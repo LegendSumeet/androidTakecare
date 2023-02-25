@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.hellfire.takecare.sosfeature.SOSdialer">
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/background2" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="50dp"
+                android:gravity="center_horizontal"
+                android:text="SOS NUMBER DIALER"
+                android:textSize="35sp"
+                android:textStyle="bold" />
+
+            <ImageButton
+                android:id="@+id/imagebtn"
+                android:layout_width="match_parent"
+                android:layout_height="151dp"
+                android:layout_marginTop="100dp"
+                android:scaleType="centerInside"
+                app:srcCompat="@drawable/ambulance" />
+
+            <ImageButton
+                android:id="@+id/imagebtn1"
+                android:layout_width="match_parent"
+                android:layout_height="151dp"
+                android:layout_marginTop="270dp"
+                android:scaleType="centerInside"
+                app:srcCompat="@drawable/police" />
+
+            <ImageButton
+                android:id="@+id/imagebtn2"
+                android:layout_width="match_parent"
+                android:layout_height="151dp"
+                android:layout_marginTop="440dp"
+                android:scaleType="centerInside"
+                app:srcCompat="@drawable/nationalemergency" />
+
+            <ImageButton
+                android:id="@+id/imagebtn3"
+                android:layout_width="match_parent"
+                android:layout_height="151dp"
+                android:layout_marginTop="610dp"
+                android:scaleType="centerInside"
+                app:srcCompat="@drawable/fire" />
+
+            <ImageButton
+                android:id="@+id/imagebtn4"
+                android:layout_width="match_parent"
+                android:layout_height="151dp"
+                android:layout_marginTop="780dp"
+                android:scaleType="centerInside"
+                app:srcCompat="@drawable/disastermgmt" />
+
+            <ImageButton
+                android:id="@+id/imagebtn5"
+                android:layout_width="match_parent"
+                android:layout_height="151dp"
+                android:layout_marginTop="950dp"
+                android:scaleType="centerInside"
+                app:srcCompat="@drawable/roadaccident" />
+
+            <ImageButton
+                android:id="@+id/imagebtn6"
+                android:layout_width="match_parent"
+                android:layout_height="151dp"
+                android:layout_marginTop="1120dp"
+                android:scaleType="centerInside"
+                app:srcCompat="@drawable/seniorcitizen" />
+
+            <ImageButton
+                android:id="@+id/imagebtn7"
+                android:layout_width="match_parent"
+                android:layout_height="151dp"
+                android:layout_marginTop="1290dp"
+                android:scaleType="centerInside"
+                app:srcCompat="@drawable/womenshelp" />
+
+            <ImageButton
+                android:id="@+id/imagebtn8"
+                android:layout_width="match_parent"
+                android:layout_height="151dp"
+                android:layout_marginTop="1460dp"
+                android:scaleType="centerInside"
+                app:srcCompat="@drawable/lpgleak"/>
+
+
+
+        </RelativeLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
