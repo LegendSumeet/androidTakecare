@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.hellfire.takecare.insurance.Insure">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/background" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true"
+        tools:layout_editor_absoluteX="1dp"
+        tools:layout_editor_absoluteY="1dp">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+            <!--android:fontFamily="@font/dm_sans"-->
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="188dp"
+                android:layout_marginTop="30dp"
+                android:layout_marginBottom="550dp"
+                android:src="@drawable/roundedrectangle" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="188dp"
+                android:layout_marginTop="200dp"
+                android:layout_marginBottom="550dp"
+                android:src="@drawable/roundedrectangle" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="188dp"
+                android:layout_marginTop="370dp"
+                android:layout_marginBottom="550dp"
+                android:src="@drawable/roundedrectangle" />
+
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="188dp"
+                android:layout_marginTop="540dp"
+                android:layout_marginBottom="550dp"
+                android:src="@drawable/roundedrectangle" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="188dp"
+                android:layout_marginTop="720dp"
+                android:layout_marginBottom="550dp"
+                android:src="@drawable/roundedrectangle" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentEnd="true"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginStart="65dp"
+                android:layout_marginTop="70dp"
+                android:layout_marginEnd="64dp"
+                android:text="Ayushman Bharat Yojana"
+                android:textColor="#000000"
+                android:textSize="25sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentEnd="true"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginStart="117dp"
+                android:layout_marginTop="110dp"
+                android:layout_marginEnd="118dp"
+                android:text="Covers upto 5 lakh INR"
+                android:textColor="#7B7B7B"
+                android:textSize="17sp"
+                android:textStyle="bold" />
+
+            <ImageButton
+                android:id="@+id/imageButton"
+                android:layout_width="130dp"
+                android:layout_height="50dp"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentEnd="true"
+                android:layout_marginStart="140dp"
+                android:layout_marginTop="135dp"
+                android:layout_marginEnd="150dp"
+                android:paddingLeft="0dp"
+                android:paddingRight="0dp"
+                android:scaleType="centerCrop"
+                app:srcCompat="@drawable/moredetailsbtn" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentEnd="true"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginStart="50dp"
+                android:layout_marginTop="240dp"
+                android:layout_marginEnd="50dp"
+                android:text="PM Suraksha Bima Yojana"
+                android:textColor="#000000"
+                android:textSize="25sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentEnd="true"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginStart="117dp"
+                android:layout_marginTop="280dp"
+                android:layout_marginEnd="118dp"
+                android:text="Covers upto 2 lakh INR"
+                android:textColor="#7B7B7B"
+                android:textSize="17sp"
+                android:textStyle="bold" />
+
+            <ImageButton
+                android:id="@+id/imageButton2"
+                android:layout_width="130dp"
+                android:layout_height="50dp"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentEnd="true"
+                android:layout_marginStart="140dp"
+                android:layout_marginTop="305dp"
+                android:layout_marginEnd="150dp"
+                android:paddingLeft="0dp"
+                android:paddingRight="0dp"
+                android:scaleType="centerCrop"
+                app:srcCompat="@drawable/moredetailsbtn" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentEnd="true"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginStart="60dp"
+                android:layout_marginTop="410dp"
+                android:layout_marginEnd="60dp"
+                android:text="Rashtriya Swasthya Bima"
+                android:textColor="#000000"
+                android:textSize="25sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentEnd="true"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginStart="83dp"
+                android:layout_marginTop="450dp"
+                android:layout_marginEnd="80dp"
+                android:text="Low Premium and No Age Limit"
+                android:textColor="#7B7B7B"
+                android:textSize="17sp"
+                android:textStyle="bold" />
+
+            <ImageButton
+                android:id="@+id/imageButton3"
+                android:layout_width="130dp"
+                android:layout_height="50dp"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentEnd="true"
+                android:layout_marginStart="140dp"
+                android:layout_marginTop="475dp"
+                android:layout_marginEnd="150dp"
+                android:paddingLeft="0dp"
+                android:paddingRight="0dp"
+                android:scaleType="centerCrop"
+                app:srcCompat="@drawable/moredetailsbtn" />
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentEnd="true"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginStart="50dp"
+                android:layout_marginTop="580dp"
+                android:layout_marginEnd="50dp"
+                android:text="M.Phule Jan Arogya Yojana"
+                android:textColor="#000000"
+                android:textSize="25sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentEnd="true"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginStart="85dp"
+                android:layout_marginTop="620dp"
+                android:layout_marginEnd="85dp"
+                android:text="Covers upto 1.5 lakh for family"
+                android:textColor="#7B7B7B"
+                android:textSize="17sp"
+                android:textStyle="bold" />
+
+            <ImageButton
+                android:id="@+id/imageButton4"
+                android:layout_width="130dp"
+                android:layout_height="50dp"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentEnd="true"
+                android:layout_marginStart="140dp"
+                android:layout_marginTop="650dp"
+                android:layout_marginEnd="150dp"
+                android:paddingLeft="0dp"
+                android:paddingRight="0dp"
+                android:scaleType="centerCrop"
+                app:srcCompat="@drawable/moredetailsbtn" />
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentEnd="true"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginStart="50dp"
+                android:layout_marginTop="750dp"
+                android:layout_marginEnd="50dp"
+                android:text="Employees'State Insurance"
+                android:textColor="#000000"
+                android:textSize="25sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentEnd="true"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginStart="110dp"
+                android:layout_marginTop="790dp"
+                android:layout_marginEnd="110dp"
+                android:text="Suggested for employee"
+                android:textColor="#7B7B7B"
+                android:textSize="17sp"
+                android:textStyle="bold" />
+
+            <ImageButton
+                android:id="@+id/imageButton5"
+                android:layout_width="130dp"
+                android:layout_height="50dp"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentEnd="true"
+                android:layout_marginStart="140dp"
+                android:layout_marginTop="815dp"
+                android:layout_marginEnd="150dp"
+                android:paddingLeft="0dp"
+                android:paddingRight="0dp"
+                android:scaleType="centerCrop"
+                app:srcCompat="@drawable/moredetailsbtn" />
+
+
+        </RelativeLayout>
+
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
