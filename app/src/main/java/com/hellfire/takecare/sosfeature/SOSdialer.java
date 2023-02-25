@@ -28,7 +28,7 @@ public class SOSdialer extends AppCompatActivity {
         btn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Uri uri =Uri.parse("tel: +102");
+                Uri uri =Uri.parse("tel: 102");
                 Intent intent2 =new Intent(Intent.ACTION_DIAL,uri);
                 startActivity(intent2);
             }
@@ -38,7 +38,7 @@ public class SOSdialer extends AppCompatActivity {
         btn2.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v1) {
-                Uri uri =Uri.parse("tel: +100");
+                Uri uri =Uri.parse("tel: 100");
                 Intent intent3 =new Intent(Intent.ACTION_DIAL,uri);
                 startActivity(intent3);
             }
@@ -48,7 +48,7 @@ public class SOSdialer extends AppCompatActivity {
         btn3.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v2) {
-                Uri uri =Uri.parse("tel: +112");
+                Uri uri =Uri.parse("tel: 112");
                 Intent intent4 =new Intent(Intent.ACTION_DIAL,uri);
                 startActivity(intent4);
             }
@@ -58,7 +58,7 @@ public class SOSdialer extends AppCompatActivity {
         btn4.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v3) {
-                Uri uri =Uri.parse("tel: +101");
+                Uri uri =Uri.parse("tel: 101");
                 Intent intent5 =new Intent(Intent.ACTION_DIAL,uri);
                 startActivity(intent5);
             }
@@ -68,7 +68,7 @@ public class SOSdialer extends AppCompatActivity {
         btn5.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v4) {
-                Uri uri =Uri.parse("tel: +101");
+                Uri uri =Uri.parse("tel: 101");
                 Intent intent6 =new Intent(Intent.ACTION_DIAL,uri);
                 startActivity(intent6);
             }
@@ -78,7 +78,7 @@ public class SOSdialer extends AppCompatActivity {
         btn6.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v5) {
-                Uri uri =Uri.parse("tel: +1073");
+                Uri uri =Uri.parse("tel: 1073");
                 Intent intent7 =new Intent(Intent.ACTION_DIAL,uri);
                 startActivity(intent7);
             }
@@ -88,7 +88,7 @@ public class SOSdialer extends AppCompatActivity {
         btn7.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v6) {
-                Uri uri =Uri.parse("tel: +1363");
+                Uri uri =Uri.parse("tel: 1363");
                 Intent intent8 =new Intent(Intent.ACTION_DIAL,uri);
                 startActivity(intent8);
             }
@@ -98,7 +98,7 @@ public class SOSdialer extends AppCompatActivity {
         btn8.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v7) {
-                Uri uri =Uri.parse("tel: +1091");
+                Uri uri =Uri.parse("tel: 1091");
                 Intent intent9 =new Intent(Intent.ACTION_DIAL,uri);
                 startActivity(intent9);
             }
@@ -108,7 +108,7 @@ public class SOSdialer extends AppCompatActivity {
         btn9.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v8) {
-                Uri uri =Uri.parse("tel: +1906");
+                Uri uri =Uri.parse("tel: 1906");
                 Intent intent10 =new Intent(Intent.ACTION_DIAL,uri);
                 startActivity(intent10);
             }
