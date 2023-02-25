@@ -1,16 +1,18 @@
 <resources>
     <string name="app_name">TAKE CARE</string>
     <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
 
-    <string name="reminder_text">%1$s: %2$s pill(s)</string>
-    <string name="pill_time_reminders_format">%1$s at %2$s</string>
-    <string name="it_is_time_to_take">It is time to take %1$s pill(s)!</string>
-    <string name="dropdown_label">Disease Name:</string>
+    <string name="reminder_text" translatable="false">%1$s: %2$s pill(s)</string>
+    <string name="pill_time_reminders_format" translatable="false">%1$s at %2$s</string>
+    <string name="it_is_time_to_take" translatable="false">It is time to take %1$s pill(s)!</string>
+    <string name="dropdown_label" translatable="false">Disease Name:</string>
     <string name="disease_name">Disease Name</string>
     <string name="specialization"> Specialization</string>
-    <string name="situation">Situation</string>
+    <string name="situation" translatable="false">Situation</string>
     <string name="tools">Tools</string>
+
+
     <string-array name="dropdown_items">
         <item>Fever</item>
         <item>Cold</item>
@@ -49,40 +51,135 @@
     </string-array>
     <string name="teit_error_text">This field is mandatory</string>
     <string name="del_reminder_dialog_negative_button">Cancel</string>
-    <string name="ra_empty_state_title">No Reminders</string>
-    <string name="ra_empty_state_text">Add a reminder and it will appear here</string>
-    <string name="ra_copy_confirmation_text">Reminder title copied</string>
-    <string name="delete_reminder_dialog_title">Delete Reminder</string>
-    <string name="delete_reminder_dialog_message">This action cannot be undone</string>
-    <string name="delete_reminder_dialog_positive_button">Delete</string>
-    <string name="copy">Copy</string>
-    <string name="edit">Edit</string>
-    <string name="delete">Delete</string>
-    <string name="new_reminder">new Reminder</string>
-    <string name="reminder_set_c">Reminder Set</string>
-    <string name="channel_name">Reminder Notification</string>
-    <string name="channel_description">Reminders</string>
-    <string name="r_r_title">rRTitle</string>
-    <string name="notification_ctitle">Reminder</string>
-    <string name="title">Title</string>
-    <string name="help_activity_action_bar_title">Help</string>
-    <string name="send_feedback">Send Feedback</string>
+    <string name="ra_empty_state_title" translatable="false">No Reminders</string>
+    <string name="ra_empty_state_text" translatable="false">Add a reminder and it will appear here</string>
+    <string name="ra_copy_confirmation_text" translatable="false">Reminder title copied</string>
+    <string name="delete_reminder_dialog_title" translatable="false">Delete Reminder</string>
+    <string name="delete_reminder_dialog_message" translatable="false">This action cannot be undone</string>
+    <string name="delete_reminder_dialog_positive_button" translatable="false">Delete</string>
+    <string name="copy" translatable="false">Copy</string>
+    <string name="edit" translatable="false">Edit</string>
+    <string name="delete" translatable="false">Delete</string>
+    <string name="new_reminder" translatable="false">new Reminder</string>
+    <string name="reminder_set_c" translatable="false">Reminder Set</string>
+    <string name="channel_name" translatable="false">Reminder Notification</string>
+    <string name="channel_description" translatable="false">Reminders</string>
+    <string name="r_r_title" translatable="false">rRTitle</string>
+    <string name="notification_ctitle" translatable="false">Reminder</string>
+    <string name="title" translatable="false">Title</string>
+    <string name="help_activity_action_bar_title" translatable="false">Help</string>
+    <string name="send_feedback" translatable="false">Send Feedback</string>
     <string name="selected_language">English</string>
     <string name="language">Hi, GFG</string>
-    <string name="update_app_informative_text">A new version is available</string>
-    <string name="update_app_button_text">UPDATE</string>
-    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
-    <string name="title_activity_main">MainActivity</string>
+    <string name="update_app_informative_text" translatable="false">A new version is available</string>
+    <string name="update_app_button_text" translatable="false">UPDATE</string>
+    <string name="banner_ad_unit_id" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="title_activity_main" translatable="false">MainActivity</string>
     <!-- Strings used for fragments for navigation -->
-    <string name="first_fragment_label">First Fragment</string>
-    <string name="second_fragment_label">Second Fragment</string>
-    <string name="next">Next</string>
-    <string name="previous">Previous</string>
+    <string name="first_fragment_label" translatable="false">First Fragment</string>
+    <string name="second_fragment_label" translatable="false">Second Fragment</string>
+    <string name="next" translatable="false">Next</string>
+    <string name="previous" translatable="false">Previous</string>
 
-    <string name="hello_first_fragment">Hello first fragment</string>
-    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
-    <string name="title_activity_checker">CheckerActivity</string>
+    <string name="hello_first_fragment" translatable="false">Hello first fragment</string>
+    <string name="hello_second_fragment" translatable="false">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_checker" translatable="false">CheckerActivity</string>
     <string name="for_more_information_click_here">For more Information, click HERE</string>
-    <string name="title_activity_maps">MapsActivity</string>
-    <string name="title_activity_main_activityerr">MainActivityerr</string>
+    <string name="title_activity_maps" translatable="false">MapsActivity</string>
+    <string name="your_health">Your health</string>
+    <string name="food_poisoning">Food Poisoning</string>
+    <string name="title_activity_activitylanguage" translatable="false">activitylanguage</string>
+    <string name="title_activity_dcotor" translatable="false">dcotorActivity</string>
+    <string name="large_text" translatable="false">
+        "Material is the metaphor.\n\n"
+
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic.\n"
+        "Surfaces and edges of the material provide visual cues that are grounded in reality. The "
+        "use of familiar tactile attributes helps users quickly understand affordances. Yet the "
+        "flexibility of the material creates new affordances that supercede those in the physical "
+        "world, without breaking the rules of physics.\n"
+        "The fundamentals of light, surface, and movement are key to conveying how objects move, "
+        "interact, and exist in space and in relation to each other. Realistic lighting shows "
+        "seams, divides space, and indicates moving parts.\n\n"
+
+        "Bold, graphic, intentional.\n\n"
+
+        "The foundational elements of print based design typography, grids, space, scale, color, "
+        "and use of imagery guide visual treatments. These elements do far more than please the "
+        "eye. They create hierarchy, meaning, and focus. Deliberate color choices, edge to edge "
+        "imagery, large scale typography, and intentional white space create a bold and graphic "
+        "interface that immerse the user in the experience.\n"
+        "An emphasis on user actions makes core functionality immediately apparent and provides "
+        "waypoints for the user.\n\n"
+
+        "Motion provides meaning.\n\n"
+
+        "Motion respects and reinforces the user as the prime mover. Primary user actions are "
+        "inflection points that initiate motion, transforming the whole design.\n"
+        "All action takes place in a single environment. Objects are presented to the user without "
+        "breaking the continuity of experience even as they transform and reorganize.\n"
+        "Motion is meaningful and appropriate, serving to focus attention and maintain continuity. "
+        "Feedback is subtle yet clear. Transitions are efﬁcient yet coherent.\n\n"
+
+        "3D world.\n\n"
+
+        "The material environment is a 3D space, which means all objects have x, y, and z "
+        "dimensions. The z-axis is perpendicularly aligned to the plane of the display, with the "
+        "positive z-axis extending towards the viewer. Every sheet of material occupies a single "
+        "position along the z-axis and has a standard 1dp thickness.\n"
+        "On the web, the z-axis is used for layering and not for perspective. The 3D world is "
+        "emulated by manipulating the y-axis.\n\n"
+
+        "Light and shadow.\n\n"
+
+        "Within the material environment, virtual lights illuminate the scene. Key lights create "
+        "directional shadows, while ambient light creates soft shadows from all angles.\n"
+        "Shadows in the material environment are cast by these two light sources. In Android "
+        "development, shadows occur when light sources are blocked by sheets of material at "
+        "various positions along the z-axis. On the web, shadows are depicted by manipulating the "
+        "y-axis only. The following example shows the card with a height of 6dp.\n\n"
+
+        "Resting elevation.\n\n"
+
+        "All material objects, regardless of size, have a resting elevation, or default elevation "
+        "that does not change. If an object changes elevation, it should return to its resting "
+        "elevation as soon as possible.\n\n"
+
+        "Component elevations.\n\n"
+
+        "The resting elevation for a component type is consistent across apps (e.g., FAB elevation "
+        "does not vary from 6dp in one app to 16dp in another app).\n"
+        "Components may have different resting elevations across platforms, depending on the depth "
+        "of the environment (e.g., TV has a greater depth than mobile or desktop).\n\n"
+
+        "Responsive elevation and dynamic elevation offsets.\n\n"
+
+        "Some component types have responsive elevation, meaning they change elevation in response "
+        "to user input (e.g., normal, focused, and pressed) or system events. These elevation "
+        "changes are consistently implemented using dynamic elevation offsets.\n"
+        "Dynamic elevation offsets are the goal elevation that a component moves towards, relative "
+        "to the component’s resting state. They ensure that elevation changes are consistent "
+        "across actions and component types. For example, all components that lift on press have "
+        "the same elevation change relative to their resting elevation.\n"
+        "Once the input event is completed or cancelled, the component will return to its resting "
+        "elevation.\n\n"
+
+        "Avoiding elevation interference.\n\n"
+
+        "Components with responsive elevations may encounter other components as they move between "
+        "their resting elevations and dynamic elevation offsets. Because material cannot pass "
+        "through other material, components avoid interfering with one another any number of ways, "
+        "whether on a per component basis or using the entire app layout.\n"
+        "On a component level, components can move or be removed before they cause interference. "
+        "For example, a floating action button (FAB) can disappear or move off screen before a "
+        "user picks up a card, or it can move if a snackbar appears.\n"
+        "On the layout level, design your app layout to minimize opportunities for interference. "
+        "For example, position the FAB to one side of stream of a cards so the FAB won’t interfere "
+        "when a user tries to pick up one of cards.\n\n"
+    </string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">hello word</string>
+    <string name="covers_upto_5_lakh">Covers upto 5 lakh ₹</string>
 </resources>

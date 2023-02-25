@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">अपना ध्यान रखना</string>
+    <string name="selected_language">हिन्दी</string>
+    <string name="language">नमस्ते, जी यफ जी</string>
+    <string name="food_poisoning">विषाक्त भोजन</string>
+    <string name="disease_name">रोग का नाम</string>
+    <string name="specialization">विशेषज्ञता</string>
+    <string name="tools">औजार</string>
+    <string name="teit_error_text">यह क्षेत्र अनिवार्य है</string>
+    <string name="del_reminder_dialog_negative_button">रद्द करना</string>
+    <string name="for_more_information_click_here">अधिक जानकारी के लिए यहां क्लिक करें</string>
+    <string name="your_health">आपका स्वास्थ्य</string>
+    <string name="action_settings">समायोजन</string>
+    <string name="hello_world">hello word</string>
+</resources>

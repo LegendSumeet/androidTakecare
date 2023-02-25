@@ -1,0 +1,48 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.geekymusketeers.medify.app-mergeDebugResources-56:/values-hi-rIN/values-hi-rIN.xml",
+            "map": [
+                {
+                    "source": "C:\\VJTI\\Take Care-20230224T134528Z-001\\Take Care\\Take care-master\\app\\src\\main\\res\\values-hi-rIN\\strings.xml",
+                    "from": {
+                        "startLines": "13,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "4,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "721,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "endColumns": "51,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "endOffsets": "768,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,107,160,234,286,342,438,489,543,596,650,717,756",
+                        "endColumns": "51,52,73,51,55,95,50,53,52,53,66,38,54",
+                        "endOffsets": "102,155,229,281,337,433,484,538,591,645,712,751,806"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-mergeDebugResources-56:\\values-hi-rIN\\values-hi-rIN.xml",
+            "map": [
+                {
+                    "source": "C:\\VJTI\\Take Care-20230224T134528Z-001\\Take Care\\Take care-master\\app\\src\\main\\res\\values-hi-rIN\\strings.xml",
+                    "from": {
+                        "startLines": "2,10,6,5,11,13,4,3,7,9,8,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "57,493,277,220,568,721,165,111,330,425,385,665",
+                        "endColumns": "52,73,51,55,95,50,53,52,53,66,38,54",
+                        "endOffsets": "105,562,324,271,659,767,214,159,379,487,419,715"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,108,182,234,290,386,437,491,544,598,665,704",
+                        "endColumns": "52,73,51,55,95,50,53,52,53,66,38,54",
+                        "endOffsets": "103,177,229,285,381,432,486,539,593,660,699,754"
+                    }
+                }
+            ]
+        }
+    ]
+}

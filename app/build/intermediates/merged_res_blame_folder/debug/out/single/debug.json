@@ -1,0 +1,942 @@
+[
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable-xxxhdpi_doctor.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-pngs-53:\\drawable-xxxhdpi\\doctor.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_skinburn.jpeg.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\skinburn.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_ic_info.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\ic_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\layout_activity_edit_profile.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\activity_edit_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_foodpoi.jpg.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\foodpoi.jpg"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_blue_healing.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\blue_healing.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_fab_add_icon.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\fab_add_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_mail_basic.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\mail_basic.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable-xxhdpi_doctor.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-pngs-53:\\drawable-xxhdpi\\doctor.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\color_color.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\color\\color.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_lpgleak.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\lpgleak.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_s1.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\s1.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\layout_activity_add_prescription.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\activity_add_prescription.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_ic_call.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\ic_call.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_share_icon.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\share_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\layout_activity_viral_infection.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\activity_viral_infection.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_d6.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\d6.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\layout_activity_maps.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\navigation_my_nav.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\navigation\\my_nav.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable-xxxhdpi_home_icon.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-pngs-53:\\drawable-xxxhdpi\\home_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable-hdpi_home_icon.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-pngs-53:\\drawable-hdpi\\home_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_roundedrectangle.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\roundedrectangle.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\layout_activity_upimanager.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\activity_upimanager.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_red_call.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\red_call.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_info_link.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\info_link.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_cs_call.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\cs_call.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable-xxhdpi_home_icon.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-pngs-53:\\drawable-xxhdpi\\home_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_nationalemergency.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\nationalemergency.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_images.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\images.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\layout_fragment_patient_appointment.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\fragment_patient_appointment.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_app_icon.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\app_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\layout_activity_dog_bite.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\activity_dog_bite.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_viralinf.jpg.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\viralinf.jpg"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_call_icon.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\call_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_snakebite.jpg.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\snakebite.jpg"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable-mdpi_home_icon.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-pngs-53:\\drawable-mdpi\\home_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_seniorcitizen.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\seniorcitizen.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_d5.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\d5.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_ic_action_delete_forever.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\ic_action_delete_forever.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\layout_activity_profile.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_ic_action_edit.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\ic_action_edit.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\layout_activity_reminder.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\activity_reminder.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\raw_notifsound.mp3.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\raw\\notifsound.mp3"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_button.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\button.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable-v24_healthinsurance.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable-v24\\healthinsurance.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_search_button.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\search_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\menu_ra_action_view_menu.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\menu\\ra_action_view_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_info.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\info.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_ambulance.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\ambulance.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable-v24_pdf_icon.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable-v24\\pdf_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_icon.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\layout_activity_sos.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\activity_sos.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable-ldpi_person.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-pngs-53:\\drawable-ldpi\\person.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_fire1.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\fire1.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\font_dm_sans_medium.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\font\\dm_sans_medium.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\layout_activity_firstaid.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\activity_firstaid.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable-v24_cancel_icon.webp.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable-v24\\cancel_icon.webp"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\layout_fragment_first.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\fragment_first.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_apple.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\apple.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_dogbite.jpg.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\dogbite.jpg"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable-xhdpi_home_icon.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-pngs-53:\\drawable-xhdpi\\home_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\layout_activity_checker.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\activity_checker.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\layout_activity_sign_up.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_serch.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\serch.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable-xxxhdpi_person.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-pngs-53:\\drawable-xxxhdpi\\person.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_d3.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\d3.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_q_left.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\q_left.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_visibility_off.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\visibility_off.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\navigation_nav_graph2.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\navigation\\nav_graph2.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_white_healing.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\white_healing.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable-v24_profile.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable-v24\\profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_time.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\time.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\raw_bookingdone.json.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\raw\\bookingdone.json"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\layout_activity_sign_up_first.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\activity_sign_up_first.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_fire.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\fire.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\font_dm_sans_bold.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\font\\dm_sans_bold.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\layout_content_main2.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\content_main2.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_enter1.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\enter1.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\layout_activity_disease.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\activity_disease.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_sign_up.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\sign_up.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_d4.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\d4.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_roadaccident.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\roadaccident.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_ripple_black.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\ripple_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\layout_fragment_second.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_moredetails.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\moredetails.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable-xxhdpi_person.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-pngs-53:\\drawable-xxhdpi\\person.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_police.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\police.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable-hdpi_doctor.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-pngs-53:\\drawable-hdpi\\doctor.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\layout_fragment_item_list.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\fragment_item_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_bell_reminer.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\bell_reminer.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_hospital_icon.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\hospital_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-pngs-53:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_graph.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_banner.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\banner.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\layout_row_users.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\row_users.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_map_basic.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\map_basic.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_shape_oval.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\shape_oval.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_visibility.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\visibility.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_nateme.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\nateme.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_ambulance1.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\ambulance1.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\layout_activity_food_poisoning1.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\activity_food_poisoning1.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\layout_activity_insurance.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\activity_insurance.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\layout_fragment_first3.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\fragment_first3.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\menu_rem_activity_options_menu.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\menu\\rem_activity_options_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_update.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\update.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable-anydpi-v24_doctor.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-pngs-53:\\drawable-anydpi-v24\\doctor.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_cardview_background.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\cardview_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\layout_fragment_reminder.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\fragment_reminder.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_ic_notification.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\ic_notification.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\layout_activity_skinburn.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\activity_skinburn.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\layout_activity_sign_in.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\activity_sign_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\layout_activity_appointment_booking.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\activity_appointment_booking.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_cs_mail.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\cs_mail.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\layout_activity_doctor_patient.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\activity_doctor_patient.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_curve_box_final.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\curve_box_final.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_stroked.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\stroked.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable-xhdpi_person.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-pngs-53:\\drawable-xhdpi\\person.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.geekymusketeers.medify.app-merged_res-58:/layout_fragment_statistics.xml.flat",
+        "source": "com.geekymusketeers.medify.app-main-60:/layout/fragment_statistics.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_ic_dashboard_black_24dp.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\layout_fragment_second3.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\fragment_second3.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_negative_button.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\negative_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_circle2.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\circle2.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_android1.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\android1.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_home_logo.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\home_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\layout_fragment_user.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\fragment_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable-xhdpi_doctor.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-pngs-53:\\drawable-xhdpi\\doctor.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\layout_list_items.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\list_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\menu_menu_dcotor.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\menu\\menu_dcotor.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_bckg_gradient.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\bckg_gradient.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_ic_baseline_upload_file_24.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\ic_baseline_upload_file_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_emergency.jpg.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\emergency.jpg"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\layout_activity_snake_bite.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\activity_snake_bite.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable-v24_diagnosis.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable-v24\\diagnosis.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\layout_fragment_second2.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\fragment_second2.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_ic_account.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\ic_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_add.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\add.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_q_right.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\q_right.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\layout_activity_help.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\activity_help.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_doc.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\doc.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_empty_state_image.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\empty_state_image.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable-mdpi_person.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-pngs-53:\\drawable-mdpi\\person.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\layout_patient_list.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\patient_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\layout_activity_forgot_password.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\activity_forgot_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_android2.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\android2.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable-v24_hdlogo.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable-v24\\hdlogo.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable-v24_otptext.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable-v24\\otptext.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\layout_fragment_rfsd.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\fragment_rfsd.xml"
+    },
+    {
+        "merged": "com.geekymusketeers.medify.app-merged_res-58:/layout_fragment_settings.xml.flat",
+        "source": "com.geekymusketeers.medify.app-main-60:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\font_dm_sans.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\font\\dm_sans.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_ic_action_copy.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\ic_action_copy.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\layout_item_pill.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\item_pill.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_date.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\date.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_ic_action_open.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\ic_action_open.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_appointment.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\appointment.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable-ldpi_home_icon.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-pngs-53:\\drawable-ldpi\\home_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_s2.jpg.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\s2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\layout_content_activitylanguage.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\content_activitylanguage.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_contact_icon.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\contact_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable-v24_btn_shape_capsule.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable-v24\\btn_shape_capsule.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\layout_fragment_settings.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\layout_fragment_first2.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\fragment_first2.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_d2.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\d2.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_bottom_nav.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\bottom_nav.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_circle1.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\circle1.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_ic_action_close.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\ic_action_close.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_calendar_month.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\calendar_month.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_age.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\age.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_demo.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\demo.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_editfield.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\editfield.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_more.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\more.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable-anydpi-v24_home_icon.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-pngs-53:\\drawable-anydpi-v24\\home_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_ic_add.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_firstaidkit.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\firstaidkit.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_womhelp.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\womhelp.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_police1.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\police1.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_white_bar.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\white_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\layout_appointment_list.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\appointment_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_alarm.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\alarm.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_moredetailsbtn.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\moredetailsbtn.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\layout_fragment_item.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\fragment_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable-ldpi_doctor.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-pngs-53:\\drawable-ldpi\\doctor.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_call_basic.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\call_basic.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\layout_content_main.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_womenshelp.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\womenshelp.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\navigation_nav_graph3.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\navigation\\nav_graph3.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\layout_content_reminders.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\content_reminders.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_ic_home_black_24dp.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_ic_notifications_black_24dp.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_syringe_icon.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\syringe_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_settings_icon.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\settings_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\layout_activity_splashscreen.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\activity_splashscreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_download.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\download.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable-mdpi_doctor.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-pngs-53:\\drawable-mdpi\\doctor.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable-anydpi-v24_person.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-pngs-53:\\drawable-anydpi-v24\\person.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable-hdpi_person.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-pngs-53:\\drawable-hdpi\\person.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_ic_pill.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\ic_pill.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_side_nav_bar.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_name.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\name.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\menu_options.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\menu\\options.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\layout_activity_booking_done.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\activity_booking_done.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\layout_reminder_list_row.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\reminder_list_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_primary_button.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\primary_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_upi.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\upi.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_card_bg.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\card_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_d1.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\d1.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable-v24_edittext_shape.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable-v24\\edittext_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\layout_fragment_statistics.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\fragment_statistics.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_cs_contact.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\cs_contact.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\menu_bottom_menu.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\menu\\bottom_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\layout_activity_reminders.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\activity_reminders.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\color_blue.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\color\\blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_disastermgmt.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\disastermgmt.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_background.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\background.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable-v24_map.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable-v24\\map.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable-v24_sos.png.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable-v24\\sos.png"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\layout_activity_activitylanguage.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\activity_activitylanguage.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-merged_res-58:\\drawable_background2.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\drawable\\background2.xml"
+    }
+]

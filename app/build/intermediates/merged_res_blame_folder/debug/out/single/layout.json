@@ -1,0 +1,222 @@
+[
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-mergeDebugResources-57:\\layout\\activity_sign_up.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-mergeDebugResources-57:\\layout\\activity_home.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-mergeDebugResources-57:\\layout\\fragment_second2.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\fragment_second2.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-mergeDebugResources-57:\\layout\\activity_skinburn.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\activity_skinburn.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-mergeDebugResources-57:\\layout\\content_activitylanguage.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\content_activitylanguage.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-mergeDebugResources-57:\\layout\\fragment_reminder.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\fragment_reminder.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-mergeDebugResources-57:\\layout\\activity_upimanager.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\activity_upimanager.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-mergeDebugResources-57:\\layout\\activity_food_poisoning1.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\activity_food_poisoning1.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-mergeDebugResources-57:\\layout\\row_users.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\row_users.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-mergeDebugResources-57:\\layout\\fragment_settings.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-mergeDebugResources-57:\\layout\\activity_doctor_patient.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\activity_doctor_patient.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-mergeDebugResources-57:\\layout\\activity_profile.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-mergeDebugResources-57:\\layout\\activity_checker.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\activity_checker.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-mergeDebugResources-57:\\layout\\fragment_first2.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\fragment_first2.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-mergeDebugResources-57:\\layout\\activity_insurance.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\activity_insurance.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-mergeDebugResources-57:\\layout\\activity_edit_profile.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\activity_edit_profile.xml"
+    },
+    {
+        "merged": "com.geekymusketeers.medify.app-mergeDebugResources-57:/layout/fragment_settings.xml",
+        "source": "com.geekymusketeers.medify.app-main-60:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-mergeDebugResources-57:\\layout\\item_pill.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\item_pill.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-mergeDebugResources-57:\\layout\\appointment_list.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\appointment_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-mergeDebugResources-57:\\layout\\activity_reminders.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\activity_reminders.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-mergeDebugResources-57:\\layout\\activity_snake_bite.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\activity_snake_bite.xml"
+    },
+    {
+        "merged": "com.geekymusketeers.medify.app-mergeDebugResources-57:/layout/fragment_statistics.xml",
+        "source": "com.geekymusketeers.medify.app-main-60:/layout/fragment_statistics.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-mergeDebugResources-57:\\layout\\content_reminders.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\content_reminders.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-mergeDebugResources-57:\\layout\\patient_list.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\patient_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-mergeDebugResources-57:\\layout\\activity_activitylanguage.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\activity_activitylanguage.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-mergeDebugResources-57:\\layout\\activity_firstaid.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\activity_firstaid.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-mergeDebugResources-57:\\layout\\content_main2.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\content_main2.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-mergeDebugResources-57:\\layout\\activity_help.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\activity_help.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-mergeDebugResources-57:\\layout\\activity_forgot_password.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\activity_forgot_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-mergeDebugResources-57:\\layout\\activity_reminder.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\activity_reminder.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-mergeDebugResources-57:\\layout\\content_main.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-mergeDebugResources-57:\\layout\\reminder_list_row.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\reminder_list_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-mergeDebugResources-57:\\layout\\activity_dog_bite.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\activity_dog_bite.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-mergeDebugResources-57:\\layout\\fragment_user.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\fragment_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-mergeDebugResources-57:\\layout\\fragment_first3.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\fragment_first3.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-mergeDebugResources-57:\\layout\\activity_sign_up_first.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\activity_sign_up_first.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-mergeDebugResources-57:\\layout\\activity_viral_infection.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\activity_viral_infection.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-mergeDebugResources-57:\\layout\\fragment_statistics.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\fragment_statistics.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-mergeDebugResources-57:\\layout\\fragment_patient_appointment.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\fragment_patient_appointment.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-mergeDebugResources-57:\\layout\\activity_appointment_booking.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\activity_appointment_booking.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-mergeDebugResources-57:\\layout\\activity_maps.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-mergeDebugResources-57:\\layout\\fragment_item_list.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\fragment_item_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-mergeDebugResources-57:\\layout\\activity_splashscreen.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\activity_splashscreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-mergeDebugResources-57:\\layout\\activity_booking_done.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\activity_booking_done.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-mergeDebugResources-57:\\layout\\list_items.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\list_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-mergeDebugResources-57:\\layout\\activity_sign_in.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\activity_sign_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-mergeDebugResources-57:\\layout\\fragment_rfsd.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\fragment_rfsd.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-mergeDebugResources-57:\\layout\\activity_sos.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\activity_sos.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-mergeDebugResources-57:\\layout\\fragment_item.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\fragment_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-mergeDebugResources-57:\\layout\\activity_disease.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\activity_disease.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-mergeDebugResources-57:\\layout\\fragment_first.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\fragment_first.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-mergeDebugResources-57:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-mergeDebugResources-57:\\layout\\activity_add_prescription.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\activity_add_prescription.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-mergeDebugResources-57:\\layout\\fragment_second.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-mergeDebugResources-57:\\layout\\fragment_second3.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\7.3.3\\com.geekymusketeers.medify.app-main-60:\\layout\\fragment_second3.xml"
+    }
+]

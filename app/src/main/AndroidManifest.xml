@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.hellfire.takecare">
+    package="com.geekymusketeers.medify">
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.SCHEDULE_EXACT_ALARM" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-    <uses-permission android:name="android.permission.CALL_PHONE"/>
 
     <application
         android:allowBackup="true"
@@ -21,35 +20,15 @@
         android:theme="@style/Theme.Medify"
         tools:targetApi="31">
         <activity
-            android:name=".SOSdialer"
-            android:exported="false" />
+            android:name=".dcotorActivity"
+            android:exported="false"
+            android:label="@string/title_activity_dcotor"
+            android:theme="@style/Theme.Medify.NoActionBar" />
         <activity
-            android:name=".FirstaidTab"
-            android:exported="false" />
-        <activity
-            android:name=".firsrActivity"
-            android:exported="false" />
-        <activity
-            android:name=".FoodPoison"
-            android:exported="false" />
-        <activity
-            android:name=".ViralInfection"
-            android:exported="false" />
-        <activity
-            android:name=".Skinburn"
-            android:exported="false" />
-        <activity
-            android:name=".SankeBite"
-            android:exported="false" />
-        <activity
-            android:name=".DogBite"
-            android:exported="false" />
-        <activity
-            android:name=".MainActivity"
-            android:exported="false" />
-        <activity
-            android:name=".Insure"
-            android:exported="false" />
+            android:name=".activitylanguage"
+            android:exported="false"
+            android:label="@string/title_activity_activitylanguage"
+            android:theme="@style/Theme.Medify.NoActionBar" />
         <!--
              TODO: Before you run your application, you need a Google Maps API key.
 
@@ -81,6 +60,12 @@
             android:theme="@style/Theme.Medify.NoActionBar" />
         <activity
             android:name=".auth.ForgotPasswordActivity"
+            android:exported="false" />
+        <activity
+            android:name=".LocaleHelper"
+            android:exported="false" />
+        <activity
+            android:name=".remind.reminder"
             android:exported="false" />
         <activity
             android:name=".profile.EditProfileActivity"
@@ -116,9 +101,6 @@
             android:name=".Firstaid.FoodPoisoning1"
             android:exported="false" />
         <activity
-            android:name=".Firstaid.FoodPoisoning"
-            android:exported="false" />
-        <activity
             android:name=".Firstaid.DogBite"
             android:exported="false" />
         <activity
@@ -129,6 +111,13 @@
             android:exported="false" />
         <activity
             android:name=".Reminder.RemindersActivity"
+            android:exported="false" />
+
+        <activity
+            android:name=".language.changelang"
+            android:exported="false" />
+        <activity
+            android:name=".sosfeature.SOSdialer"
             android:exported="false" />
         <activity
             android:name=".introduction.Splashscreen"

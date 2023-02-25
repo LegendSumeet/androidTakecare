@@ -1,0 +1,642 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.geekymusketeers.medify"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:6:5-67
+11-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:6:22-64
+12    <uses-permission android:name="android.permission.SCHEDULE_EXACT_ALARM" />
+12-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:7:5-79
+12-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:7:22-76
+13    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+13-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:8:5-79
+13-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:8:22-76
+14    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+14-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:9:5-80
+14-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:9:22-77
+15    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+15-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:10:5-81
+15-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:10:22-78
+16
+17    <uses-feature
+17-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\015de596b1cdcc3e51c00a2a954f7291\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:26:5-28:35
+18        android:glEsVersion="0x00020000"
+18-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\015de596b1cdcc3e51c00a2a954f7291\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:27:9-41
+19        android:required="true" />
+19-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\015de596b1cdcc3e51c00a2a954f7291\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:28:9-32
+20
+21    <queries>
+21-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\015de596b1cdcc3e51c00a2a954f7291\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:30:5-34:15
+22
+23        <!-- Needs to be explicitly declared on Android R+ -->
+24        <package android:name="com.google.android.apps.maps" />
+24-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\015de596b1cdcc3e51c00a2a954f7291\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:33:9-64
+24-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\015de596b1cdcc3e51c00a2a954f7291\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:33:18-61
+25    </queries>
+26
+27    <uses-permission android:name="android.permission.WAKE_LOCK" />
+27-->[com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\lenovo\.gradle\caches\transforms-3\25bf8959b92b59e54bdcb4c621e332f9\transformed\jetified-play-services-measurement-api-21.2.0\AndroidManifest.xml:24:5-68
+27-->[com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\lenovo\.gradle\caches\transforms-3\25bf8959b92b59e54bdcb4c621e332f9\transformed\jetified-play-services-measurement-api-21.2.0\AndroidManifest.xml:24:22-65
+28    <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
+28-->[com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\lenovo\.gradle\caches\transforms-3\25bf8959b92b59e54bdcb4c621e332f9\transformed\jetified-play-services-measurement-api-21.2.0\AndroidManifest.xml:25:5-79
+28-->[com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\lenovo\.gradle\caches\transforms-3\25bf8959b92b59e54bdcb4c621e332f9\transformed\jetified-play-services-measurement-api-21.2.0\AndroidManifest.xml:25:22-76
+29    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+29-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\lenovo\.gradle\caches\transforms-3\4a09c229a6a1337a64d51aff23eb9c17\transformed\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:26:5-110
+29-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\lenovo\.gradle\caches\transforms-3\4a09c229a6a1337a64d51aff23eb9c17\transformed\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:26:22-107
+30
+31    <permission
+31-->[androidx.core:core:1.9.0] C:\Users\lenovo\.gradle\caches\transforms-3\5d73ac33e826fef2c851468e5da9e5f4\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+32        android:name="com.geekymusketeers.medify.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+32-->[androidx.core:core:1.9.0] C:\Users\lenovo\.gradle\caches\transforms-3\5d73ac33e826fef2c851468e5da9e5f4\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+33        android:protectionLevel="signature" />
+33-->[androidx.core:core:1.9.0] C:\Users\lenovo\.gradle\caches\transforms-3\5d73ac33e826fef2c851468e5da9e5f4\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+34
+35    <uses-permission android:name="com.geekymusketeers.medify.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+35-->[androidx.core:core:1.9.0] C:\Users\lenovo\.gradle\caches\transforms-3\5d73ac33e826fef2c851468e5da9e5f4\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+35-->[androidx.core:core:1.9.0] C:\Users\lenovo\.gradle\caches\transforms-3\5d73ac33e826fef2c851468e5da9e5f4\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+36    <uses-permission android:name="android.permission.CAMERA" /> <!-- Don't require camera, as this requires a rear camera. This allows it to work on the Nexus 7 -->
+36-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\lenovo\.gradle\caches\transforms-3\0e3c40cc58dca67218130291ce2a5d10\transformed\jetified-zxing-android-embedded-4.3.0\AndroidManifest.xml:22:5-65
+36-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\lenovo\.gradle\caches\transforms-3\0e3c40cc58dca67218130291ce2a5d10\transformed\jetified-zxing-android-embedded-4.3.0\AndroidManifest.xml:22:22-62
+37    <uses-feature
+37-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\lenovo\.gradle\caches\transforms-3\0e3c40cc58dca67218130291ce2a5d10\transformed\jetified-zxing-android-embedded-4.3.0\AndroidManifest.xml:25:5-27:36
+38        android:name="android.hardware.camera"
+38-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\lenovo\.gradle\caches\transforms-3\0e3c40cc58dca67218130291ce2a5d10\transformed\jetified-zxing-android-embedded-4.3.0\AndroidManifest.xml:26:9-47
+39        android:required="false" />
+39-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\lenovo\.gradle\caches\transforms-3\0e3c40cc58dca67218130291ce2a5d10\transformed\jetified-zxing-android-embedded-4.3.0\AndroidManifest.xml:27:9-33
+40    <uses-feature
+40-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\lenovo\.gradle\caches\transforms-3\0e3c40cc58dca67218130291ce2a5d10\transformed\jetified-zxing-android-embedded-4.3.0\AndroidManifest.xml:28:5-30:36
+41        android:name="android.hardware.camera.front"
+41-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\lenovo\.gradle\caches\transforms-3\0e3c40cc58dca67218130291ce2a5d10\transformed\jetified-zxing-android-embedded-4.3.0\AndroidManifest.xml:29:9-53
+42        android:required="false" /> <!-- TODO replace above two with next line after Android 4.2 -->
+42-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\lenovo\.gradle\caches\transforms-3\0e3c40cc58dca67218130291ce2a5d10\transformed\jetified-zxing-android-embedded-4.3.0\AndroidManifest.xml:30:9-33
+43    <!-- <uses-feature android:name="android.hardware.camera.any"/> -->
+44    <uses-feature
+44-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\lenovo\.gradle\caches\transforms-3\0e3c40cc58dca67218130291ce2a5d10\transformed\jetified-zxing-android-embedded-4.3.0\AndroidManifest.xml:33:5-35:36
+45        android:name="android.hardware.camera.autofocus"
+45-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\lenovo\.gradle\caches\transforms-3\0e3c40cc58dca67218130291ce2a5d10\transformed\jetified-zxing-android-embedded-4.3.0\AndroidManifest.xml:34:9-57
+46        android:required="false" />
+46-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\lenovo\.gradle\caches\transforms-3\0e3c40cc58dca67218130291ce2a5d10\transformed\jetified-zxing-android-embedded-4.3.0\AndroidManifest.xml:35:9-33
+47    <uses-feature
+47-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\lenovo\.gradle\caches\transforms-3\0e3c40cc58dca67218130291ce2a5d10\transformed\jetified-zxing-android-embedded-4.3.0\AndroidManifest.xml:36:5-38:36
+48        android:name="android.hardware.camera.flash"
+48-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\lenovo\.gradle\caches\transforms-3\0e3c40cc58dca67218130291ce2a5d10\transformed\jetified-zxing-android-embedded-4.3.0\AndroidManifest.xml:37:9-53
+49        android:required="false" />
+49-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\lenovo\.gradle\caches\transforms-3\0e3c40cc58dca67218130291ce2a5d10\transformed\jetified-zxing-android-embedded-4.3.0\AndroidManifest.xml:38:9-33
+50    <uses-feature
+50-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\lenovo\.gradle\caches\transforms-3\0e3c40cc58dca67218130291ce2a5d10\transformed\jetified-zxing-android-embedded-4.3.0\AndroidManifest.xml:39:5-41:36
+51        android:name="android.hardware.screen.landscape"
+51-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\lenovo\.gradle\caches\transforms-3\0e3c40cc58dca67218130291ce2a5d10\transformed\jetified-zxing-android-embedded-4.3.0\AndroidManifest.xml:40:9-57
+52        android:required="false" />
+52-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\lenovo\.gradle\caches\transforms-3\0e3c40cc58dca67218130291ce2a5d10\transformed\jetified-zxing-android-embedded-4.3.0\AndroidManifest.xml:41:9-33
+53    <uses-feature
+53-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\lenovo\.gradle\caches\transforms-3\0e3c40cc58dca67218130291ce2a5d10\transformed\jetified-zxing-android-embedded-4.3.0\AndroidManifest.xml:42:5-44:36
+54        android:name="android.hardware.wifi"
+54-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\lenovo\.gradle\caches\transforms-3\0e3c40cc58dca67218130291ce2a5d10\transformed\jetified-zxing-android-embedded-4.3.0\AndroidManifest.xml:43:9-45
+55        android:required="false" />
+55-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\lenovo\.gradle\caches\transforms-3\0e3c40cc58dca67218130291ce2a5d10\transformed\jetified-zxing-android-embedded-4.3.0\AndroidManifest.xml:44:9-33
+56
+57    <application
+57-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:12:5-153:19
+58        android:allowBackup="true"
+58-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:13:9-35
+59        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+59-->[androidx.core:core:1.9.0] C:\Users\lenovo\.gradle\caches\transforms-3\5d73ac33e826fef2c851468e5da9e5f4\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+60        android:dataExtractionRules="@xml/data_extraction_rules"
+60-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:14:9-65
+61        android:debuggable="true"
+62        android:fullBackupContent="@xml/backup_rules"
+62-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:15:9-54
+63        android:icon="@drawable/app_icon"
+63-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:16:9-42
+64        android:label="@string/app_name"
+64-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:17:9-41
+65        android:roundIcon="@drawable/app_icon"
+65-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:18:9-47
+66        android:supportsRtl="true"
+66-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:19:9-35
+67        android:theme="@style/Theme.Medify" >
+67-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:20:9-44
+68        <activity
+68-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:22:9-26:63
+69            android:name="com.geekymusketeers.medify.dcotorActivity"
+69-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:23:13-43
+70            android:exported="false"
+70-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:24:13-37
+71            android:label="@string/title_activity_dcotor"
+71-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:25:13-58
+72            android:theme="@style/Theme.Medify.NoActionBar" />
+72-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:26:13-60
+73        <activity
+73-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:27:9-31:63
+74            android:name="com.geekymusketeers.medify.activitylanguage"
+74-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:28:13-45
+75            android:exported="false"
+75-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:29:13-37
+76            android:label="@string/title_activity_activitylanguage"
+76-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:30:13-68
+77            android:theme="@style/Theme.Medify.NoActionBar" />
+77-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:31:13-60
+78        <!--
+79             TODO: Before you run your application, you need a Google Maps API key.
+80
+81             To get one, follow the directions here:
+82
+83                https://developers.google.com/maps/documentation/android-sdk/get-api-key
+84
+85             Once you have your API key (it starts with "AIza"), define a new property in your
+86             project's local.properties file (e.g. MAPS_API_KEY=Aiza...), and replace the
+87             "YOUR_API_KEY" string in this file with "${MAPS_API_KEY}".
+88        -->
+89        <meta-data
+89-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:43:9-45:71
+90            android:name="com.google.android.geo.API_KEY"
+90-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:44:13-58
+91            android:value="AIzaSyCgTcF0GoxTPNWMP5HAPWxV3oChtWCmp4o" />
+91-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:45:13-68
+92
+93        <activity
+93-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:47:9-50:59
+94            android:name="com.geekymusketeers.medify.MapsActivity"
+94-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:48:13-41
+95            android:exported="false"
+95-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:49:13-37
+96            android:label="@string/title_activity_maps" />
+96-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:50:13-56
+97        <activity
+97-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:51:9-55:63
+98            android:name="com.geekymusketeers.medify.CheckerActivity"
+98-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:52:13-44
+99            android:exported="false"
+99-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:53:13-37
+100            android:label="@string/title_activity_checker"
+100-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:54:13-59
+101            android:theme="@style/Theme.Medify.NoActionBar" />
+101-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:55:13-60
+102        <activity
+102-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:56:9-60:63
+103            android:name="com.geekymusketeers.medify.activity_disease"
+103-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:57:13-45
+104            android:exported="false"
+104-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:58:13-37
+105            android:label="@string/title_activity_checker"
+105-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:59:13-59
+106            android:theme="@style/Theme.Medify.NoActionBar" />
+106-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:60:13-60
+107        <activity
+107-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:61:9-63:40
+108            android:name="com.geekymusketeers.medify.auth.ForgotPasswordActivity"
+108-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:62:13-56
+109            android:exported="false" />
+109-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:63:13-37
+110        <activity
+110-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:64:9-66:40
+111            android:name="com.geekymusketeers.medify.LocaleHelper"
+111-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:65:13-41
+112            android:exported="false" />
+112-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:66:13-37
+113        <activity
+113-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:67:9-69:40
+114            android:name="com.geekymusketeers.medify.remind.reminder"
+114-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:68:13-44
+115            android:exported="false" />
+115-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:69:13-37
+116        <activity
+116-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:70:9-72:40
+117            android:name="com.geekymusketeers.medify.profile.EditProfileActivity"
+117-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:71:13-56
+118            android:exported="false" />
+118-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:72:13-37
+119        <activity
+119-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:73:9-75:40
+120            android:name="com.geekymusketeers.medify.profile.ProfileActivity"
+120-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:74:13-52
+121            android:exported="false" />
+121-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:75:13-37
+122        <activity
+122-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:76:9-78:40
+123            android:name="com.geekymusketeers.medify.prescription.AddPrescriptionActivity"
+123-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:77:13-65
+124            android:exported="false" />
+124-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:78:13-37
+125        <activity
+125-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:79:9-81:39
+126            android:name="com.geekymusketeers.medify.mainFragments.DoctorPatient"
+126-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:80:13-56
+127            android:exported="true" />
+127-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:81:13-36
+128        <activity
+128-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:82:9-84:39
+129            android:name="com.geekymusketeers.medify.appointment.BookingDoneActivity"
+129-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:83:13-60
+130            android:exported="true" />
+130-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:84:13-36
+131        <activity
+131-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:85:9-87:39
+132            android:name="com.geekymusketeers.medify.insure.Insure"
+132-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:86:13-42
+133            android:exported="true" />
+133-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:87:13-36
+134        <activity
+134-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:88:9-90:40
+135            android:name="com.geekymusketeers.medify.Firstaid.firsrActivity"
+135-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:89:13-51
+136            android:exported="false" />
+136-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:90:13-37
+137        <activity
+137-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:91:9-93:40
+138            android:name="com.geekymusketeers.medify.Firstaid.SnakeBite"
+138-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:92:13-47
+139            android:exported="false" />
+139-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:93:13-37
+140        <activity
+140-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:94:9-96:40
+141            android:name="com.geekymusketeers.medify.Firstaid.ViralInfection"
+141-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:95:13-52
+142            android:exported="false" />
+142-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:96:13-37
+143        <activity
+143-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:97:9-99:40
+144            android:name="com.geekymusketeers.medify.Firstaid.Skinburn"
+144-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:98:13-46
+145            android:exported="false" />
+145-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:99:13-37
+146        <activity
+146-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:100:9-102:40
+147            android:name="com.geekymusketeers.medify.Firstaid.FoodPoisoning1"
+147-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:101:13-52
+148            android:exported="false" />
+148-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:102:13-37
+149        <activity
+149-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:103:9-105:40
+150            android:name="com.geekymusketeers.medify.Firstaid.DogBite"
+150-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:104:13-45
+151            android:exported="false" />
+151-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:105:13-37
+152        <activity
+152-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:106:9-108:39
+153            android:name="com.geekymusketeers.medify.mainFragments.UPImanager"
+153-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:107:13-53
+154            android:exported="true" />
+154-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:108:13-36
+155        <activity
+155-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:109:9-111:40
+156            android:name="com.geekymusketeers.medify.Reminder.HelpActivity"
+156-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:110:13-50
+157            android:exported="false" />
+157-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:111:13-37
+158        <activity
+158-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:112:9-114:40
+159            android:name="com.geekymusketeers.medify.Reminder.RemindersActivity"
+159-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:113:13-55
+160            android:exported="false" />
+160-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:114:13-37
+161        <activity
+161-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:116:9-118:40
+162            android:name="com.geekymusketeers.medify.language.changelang"
+162-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:117:13-48
+163            android:exported="false" />
+163-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:118:13-37
+164        <activity
+164-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:119:9-121:40
+165            android:name="com.geekymusketeers.medify.sosfeature.SOSdialer"
+165-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:120:13-49
+166            android:exported="false" />
+166-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:121:13-37
+167        <activity
+167-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:122:9-130:20
+168            android:name="com.geekymusketeers.medify.introduction.Splashscreen"
+168-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:123:13-54
+169            android:exported="true" >
+169-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:124:13-36
+170            <intent-filter>
+170-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:125:13-129:29
+171                <action android:name="android.intent.action.MAIN" />
+171-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:126:17-69
+171-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:126:25-66
+172
+173                <category android:name="android.intent.category.LAUNCHER" />
+173-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:128:17-77
+173-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:128:27-74
+174            </intent-filter>
+175        </activity>
+176        <activity
+176-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:131:9-133:39
+177            android:name="com.geekymusketeers.medify.appointment.AppointmentBooking"
+177-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:132:13-59
+178            android:exported="true" />
+178-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:133:13-36
+179        <activity
+179-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:134:9-136:39
+180            android:name="com.geekymusketeers.medify.auth.SignUp_First"
+180-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:135:13-46
+181            android:exported="true" />
+181-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:136:13-36
+182        <activity
+182-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:137:9-140:70
+183            android:name="com.geekymusketeers.medify.auth.SignIn_Activity"
+183-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:138:13-49
+184            android:exported="true"
+184-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:139:13-36
+185            android:windowSoftInputMode="stateHidden|adjustResize" />
+185-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:140:13-67
+186        <activity
+186-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:141:9-144:70
+187            android:name="com.geekymusketeers.medify.auth.SignUp_Activity"
+187-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:142:13-49
+188            android:exported="true"
+188-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:143:13-36
+189            android:windowSoftInputMode="stateHidden|adjustResize" />
+189-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:144:13-67
+190        <activity
+190-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:145:9-148:55
+191            android:name="com.geekymusketeers.medify.HomeActivity"
+191-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:146:13-41
+192            android:exported="true"
+192-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:147:13-36
+193            android:windowSoftInputMode="adjustPan" />
+193-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:148:13-52
+194
+195        <meta-data
+195-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:150:9-152:57
+196            android:name="preloaded_fonts"
+196-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:151:13-43
+197            android:resource="@array/preloaded_fonts" />
+197-->C:\VJTI\Take Care-20230224T134528Z-001\Take Care\Take care-master\app\src\main\AndroidManifest.xml:152:13-54
+198
+199        <service
+199-->[com.google.firebase:firebase-database-ktx:20.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\27f3f3ffa351719ac153fe532f09566b\transformed\jetified-firebase-database-ktx-20.1.0\AndroidManifest.xml:11:9-17:19
+200            android:name="com.google.firebase.components.ComponentDiscoveryService"
+200-->[com.google.firebase:firebase-database-ktx:20.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\27f3f3ffa351719ac153fe532f09566b\transformed\jetified-firebase-database-ktx-20.1.0\AndroidManifest.xml:12:13-84
+201            android:directBootAware="true"
+201-->[com.google.firebase:firebase-common:20.3.0] C:\Users\lenovo\.gradle\caches\transforms-3\afb8dba7e1606ef6d7f4d1be914b2708\transformed\jetified-firebase-common-20.3.0\AndroidManifest.xml:34:13-43
+202            android:exported="false" >
+202-->[com.google.firebase:firebase-database-ktx:20.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\27f3f3ffa351719ac153fe532f09566b\transformed\jetified-firebase-database-ktx-20.1.0\AndroidManifest.xml:13:13-37
+203            <meta-data
+203-->[com.google.firebase:firebase-database-ktx:20.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\27f3f3ffa351719ac153fe532f09566b\transformed\jetified-firebase-database-ktx-20.1.0\AndroidManifest.xml:14:13-16:85
+204                android:name="com.google.firebase.components:com.google.firebase.database.ktx.FirebaseDatabaseKtxRegistrar"
+204-->[com.google.firebase:firebase-database-ktx:20.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\27f3f3ffa351719ac153fe532f09566b\transformed\jetified-firebase-database-ktx-20.1.0\AndroidManifest.xml:15:17-124
+205                android:value="com.google.firebase.components.ComponentRegistrar" />
+205-->[com.google.firebase:firebase-database-ktx:20.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\27f3f3ffa351719ac153fe532f09566b\transformed\jetified-firebase-database-ktx-20.1.0\AndroidManifest.xml:16:17-82
+206            <meta-data
+206-->[com.google.firebase:firebase-storage-ktx:20.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\c717b8ca98c468273788b38d13538915\transformed\jetified-firebase-storage-ktx-20.1.0\AndroidManifest.xml:14:13-16:85
+207                android:name="com.google.firebase.components:com.google.firebase.storage.ktx.FirebaseStorageKtxRegistrar"
+207-->[com.google.firebase:firebase-storage-ktx:20.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\c717b8ca98c468273788b38d13538915\transformed\jetified-firebase-storage-ktx-20.1.0\AndroidManifest.xml:15:17-122
+208                android:value="com.google.firebase.components.ComponentRegistrar" />
+208-->[com.google.firebase:firebase-storage-ktx:20.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\c717b8ca98c468273788b38d13538915\transformed\jetified-firebase-storage-ktx-20.1.0\AndroidManifest.xml:16:17-82
+209            <meta-data
+209-->[com.google.firebase:firebase-auth-ktx:21.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\c9890c0f9b19507249ac77d0c7dec2be\transformed\jetified-firebase-auth-ktx-21.1.0\AndroidManifest.xml:11:13-13:85
+210                android:name="com.google.firebase.components:com.google.firebase.auth.ktx.FirebaseAuthKtxRegistrar"
+210-->[com.google.firebase:firebase-auth-ktx:21.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\c9890c0f9b19507249ac77d0c7dec2be\transformed\jetified-firebase-auth-ktx-21.1.0\AndroidManifest.xml:12:17-116
+211                android:value="com.google.firebase.components.ComponentRegistrar" />
+211-->[com.google.firebase:firebase-auth-ktx:21.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\c9890c0f9b19507249ac77d0c7dec2be\transformed\jetified-firebase-auth-ktx-21.1.0\AndroidManifest.xml:13:17-82
+212            <meta-data
+212-->[com.google.firebase:firebase-common-ktx:20.3.0] C:\Users\lenovo\.gradle\caches\transforms-3\f6a45d57c16d7942e3356831a427d9c6\transformed\jetified-firebase-common-ktx-20.3.0\AndroidManifest.xml:14:13-16:85
+213                android:name="com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonKtxRegistrar"
+213-->[com.google.firebase:firebase-common-ktx:20.3.0] C:\Users\lenovo\.gradle\caches\transforms-3\f6a45d57c16d7942e3356831a427d9c6\transformed\jetified-firebase-common-ktx-20.3.0\AndroidManifest.xml:15:17-113
+214                android:value="com.google.firebase.components.ComponentRegistrar" />
+214-->[com.google.firebase:firebase-common-ktx:20.3.0] C:\Users\lenovo\.gradle\caches\transforms-3\f6a45d57c16d7942e3356831a427d9c6\transformed\jetified-firebase-common-ktx-20.3.0\AndroidManifest.xml:16:17-82
+215            <meta-data
+215-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\d62076a90921ebe2b17326a57c6cea2f\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:67:13-69:85
+216                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+216-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\d62076a90921ebe2b17326a57c6cea2f\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:68:17-109
+217                android:value="com.google.firebase.components.ComponentRegistrar" />
+217-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\d62076a90921ebe2b17326a57c6cea2f\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:69:17-82
+218            <meta-data
+218-->[com.google.firebase:firebase-storage:20.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\c1aaf0ad1269fa7a1653f2fb9c329729\transformed\jetified-firebase-storage-20.1.0\AndroidManifest.xml:32:13-34:85
+219                android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
+219-->[com.google.firebase:firebase-storage:20.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\c1aaf0ad1269fa7a1653f2fb9c329729\transformed\jetified-firebase-storage-20.1.0\AndroidManifest.xml:33:17-107
+220                android:value="com.google.firebase.components.ComponentRegistrar" />
+220-->[com.google.firebase:firebase-storage:20.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\c1aaf0ad1269fa7a1653f2fb9c329729\transformed\jetified-firebase-storage-20.1.0\AndroidManifest.xml:34:17-82
+221            <meta-data
+221-->[com.google.firebase:firebase-appcheck-safetynet:16.1.1] C:\Users\lenovo\.gradle\caches\transforms-3\42e6760e621b2a81f6100765bb721749\transformed\jetified-firebase-appcheck-safetynet-16.1.1\AndroidManifest.xml:27:13-29:85
+222                android:name="com.google.firebase.components:com.google.firebase.appcheck.safetynet.FirebaseAppCheckSafetyNetRegistrar"
+222-->[com.google.firebase:firebase-appcheck-safetynet:16.1.1] C:\Users\lenovo\.gradle\caches\transforms-3\42e6760e621b2a81f6100765bb721749\transformed\jetified-firebase-appcheck-safetynet-16.1.1\AndroidManifest.xml:28:17-136
+223                android:value="com.google.firebase.components.ComponentRegistrar" />
+223-->[com.google.firebase:firebase-appcheck-safetynet:16.1.1] C:\Users\lenovo\.gradle\caches\transforms-3\42e6760e621b2a81f6100765bb721749\transformed\jetified-firebase-appcheck-safetynet-16.1.1\AndroidManifest.xml:29:17-82
+224            <meta-data
+224-->[com.google.firebase:firebase-database:20.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\bee808e382fab9f47d3c4de78a6c1ecd\transformed\jetified-firebase-database-20.1.0\AndroidManifest.xml:31:13-33:85
+225                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+225-->[com.google.firebase:firebase-database:20.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\bee808e382fab9f47d3c4de78a6c1ecd\transformed\jetified-firebase-database-20.1.0\AndroidManifest.xml:32:17-109
+226                android:value="com.google.firebase.components.ComponentRegistrar" />
+226-->[com.google.firebase:firebase-database:20.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\bee808e382fab9f47d3c4de78a6c1ecd\transformed\jetified-firebase-database-20.1.0\AndroidManifest.xml:33:17-82
+227            <meta-data
+227-->[com.google.firebase:firebase-appcheck:16.1.1] C:\Users\lenovo\.gradle\caches\transforms-3\a0d50c136a8ffc802bde91d669d33655\transformed\jetified-firebase-appcheck-16.1.1\AndroidManifest.xml:27:13-29:85
+228                android:name="com.google.firebase.components:com.google.firebase.appcheck.FirebaseAppCheckRegistrar"
+228-->[com.google.firebase:firebase-appcheck:16.1.1] C:\Users\lenovo\.gradle\caches\transforms-3\a0d50c136a8ffc802bde91d669d33655\transformed\jetified-firebase-appcheck-16.1.1\AndroidManifest.xml:28:17-117
+229                android:value="com.google.firebase.components.ComponentRegistrar" />
+229-->[com.google.firebase:firebase-appcheck:16.1.1] C:\Users\lenovo\.gradle\caches\transforms-3\a0d50c136a8ffc802bde91d669d33655\transformed\jetified-firebase-appcheck-16.1.1\AndroidManifest.xml:29:17-82
+230            <meta-data
+230-->[com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\lenovo\.gradle\caches\transforms-3\25bf8959b92b59e54bdcb4c621e332f9\transformed\jetified-play-services-measurement-api-21.2.0\AndroidManifest.xml:31:13-33:85
+231                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+231-->[com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\lenovo\.gradle\caches\transforms-3\25bf8959b92b59e54bdcb4c621e332f9\transformed\jetified-play-services-measurement-api-21.2.0\AndroidManifest.xml:32:17-139
+232                android:value="com.google.firebase.components.ComponentRegistrar" />
+232-->[com.google.android.gms:play-services-measurement-api:21.2.0] C:\Users\lenovo\.gradle\caches\transforms-3\25bf8959b92b59e54bdcb4c621e332f9\transformed\jetified-play-services-measurement-api-21.2.0\AndroidManifest.xml:33:17-82
+233            <meta-data
+233-->[com.google.firebase:firebase-installations:17.1.2] C:\Users\lenovo\.gradle\caches\transforms-3\7c409783a910f6cfa122a0ece879496b\transformed\jetified-firebase-installations-17.1.2\AndroidManifest.xml:17:13-19:85
+234                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+234-->[com.google.firebase:firebase-installations:17.1.2] C:\Users\lenovo\.gradle\caches\transforms-3\7c409783a910f6cfa122a0ece879496b\transformed\jetified-firebase-installations-17.1.2\AndroidManifest.xml:18:17-127
+235                android:value="com.google.firebase.components.ComponentRegistrar" />
+235-->[com.google.firebase:firebase-installations:17.1.2] C:\Users\lenovo\.gradle\caches\transforms-3\7c409783a910f6cfa122a0ece879496b\transformed\jetified-firebase-installations-17.1.2\AndroidManifest.xml:19:17-82
+236        </service>
+237
+238        <activity
+238-->[com.karumi:dexter:6.2.3] C:\Users\lenovo\.gradle\caches\transforms-3\b65f85992f3426f14f5819940663415a\transformed\jetified-dexter-6.2.3\AndroidManifest.xml:27:9-29:72
+239            android:name="com.karumi.dexter.DexterActivity"
+239-->[com.karumi:dexter:6.2.3] C:\Users\lenovo\.gradle\caches\transforms-3\b65f85992f3426f14f5819940663415a\transformed\jetified-dexter-6.2.3\AndroidManifest.xml:28:13-60
+240            android:theme="@style/Dexter.Internal.Theme.Transparent" /> <!-- Needs to be explicitly declared on P+ -->
+240-->[com.karumi:dexter:6.2.3] C:\Users\lenovo\.gradle\caches\transforms-3\b65f85992f3426f14f5819940663415a\transformed\jetified-dexter-6.2.3\AndroidManifest.xml:29:13-69
+241        <uses-library
+241-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\015de596b1cdcc3e51c00a2a954f7291\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:39:9-41:40
+242            android:name="org.apache.http.legacy"
+242-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\015de596b1cdcc3e51c00a2a954f7291\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:40:13-50
+243            android:required="false" />
+243-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\015de596b1cdcc3e51c00a2a954f7291\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:41:13-37
+244
+245        <activity
+245-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\d62076a90921ebe2b17326a57c6cea2f\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:27:9-44:20
+246            android:name="com.google.firebase.auth.internal.GenericIdpActivity"
+246-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\d62076a90921ebe2b17326a57c6cea2f\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:28:13-80
+247            android:excludeFromRecents="true"
+247-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\d62076a90921ebe2b17326a57c6cea2f\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:29:13-46
+248            android:exported="true"
+248-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\d62076a90921ebe2b17326a57c6cea2f\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:30:13-36
+249            android:launchMode="singleTask"
+249-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\d62076a90921ebe2b17326a57c6cea2f\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:31:13-44
+250            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+250-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\d62076a90921ebe2b17326a57c6cea2f\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:32:13-72
+251            <intent-filter>
+251-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\d62076a90921ebe2b17326a57c6cea2f\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:33:13-43:29
+252                <action android:name="android.intent.action.VIEW" />
+252-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\d62076a90921ebe2b17326a57c6cea2f\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:34:17-69
+252-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\d62076a90921ebe2b17326a57c6cea2f\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:34:25-66
+253
+254                <category android:name="android.intent.category.DEFAULT" />
+254-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\d62076a90921ebe2b17326a57c6cea2f\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:36:17-76
+254-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\d62076a90921ebe2b17326a57c6cea2f\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:36:27-73
+255                <category android:name="android.intent.category.BROWSABLE" />
+255-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\d62076a90921ebe2b17326a57c6cea2f\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:37:17-78
+255-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\d62076a90921ebe2b17326a57c6cea2f\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:37:27-75
+256
+257                <data
+257-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\d62076a90921ebe2b17326a57c6cea2f\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:39:17-42:51
+258                    android:host="firebase.auth"
+258-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\d62076a90921ebe2b17326a57c6cea2f\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:40:21-49
+259                    android:path="/"
+259-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\d62076a90921ebe2b17326a57c6cea2f\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:41:21-37
+260                    android:scheme="genericidp" />
+260-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\d62076a90921ebe2b17326a57c6cea2f\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:42:21-48
+261            </intent-filter>
+262        </activity>
+263        <activity
+263-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\d62076a90921ebe2b17326a57c6cea2f\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:45:9-62:20
+264            android:name="com.google.firebase.auth.internal.RecaptchaActivity"
+264-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\d62076a90921ebe2b17326a57c6cea2f\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:46:13-79
+265            android:excludeFromRecents="true"
+265-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\d62076a90921ebe2b17326a57c6cea2f\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:47:13-46
+266            android:exported="true"
+266-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\d62076a90921ebe2b17326a57c6cea2f\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:48:13-36
+267            android:launchMode="singleTask"
+267-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\d62076a90921ebe2b17326a57c6cea2f\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:49:13-44
+268            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+268-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\d62076a90921ebe2b17326a57c6cea2f\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:50:13-72
+269            <intent-filter>
+269-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\d62076a90921ebe2b17326a57c6cea2f\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:51:13-61:29
+270                <action android:name="android.intent.action.VIEW" />
+270-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\d62076a90921ebe2b17326a57c6cea2f\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:34:17-69
+270-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\d62076a90921ebe2b17326a57c6cea2f\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:34:25-66
+271
+272                <category android:name="android.intent.category.DEFAULT" />
+272-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\d62076a90921ebe2b17326a57c6cea2f\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:36:17-76
+272-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\d62076a90921ebe2b17326a57c6cea2f\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:36:27-73
+273                <category android:name="android.intent.category.BROWSABLE" />
+273-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\d62076a90921ebe2b17326a57c6cea2f\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:37:17-78
+273-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\d62076a90921ebe2b17326a57c6cea2f\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:37:27-75
+274
+275                <data
+275-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\d62076a90921ebe2b17326a57c6cea2f\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:39:17-42:51
+276                    android:host="firebase.auth"
+276-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\d62076a90921ebe2b17326a57c6cea2f\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:40:21-49
+277                    android:path="/"
+277-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\d62076a90921ebe2b17326a57c6cea2f\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:41:21-37
+278                    android:scheme="recaptcha" />
+278-->[com.google.firebase:firebase-auth:21.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\d62076a90921ebe2b17326a57c6cea2f\transformed\jetified-firebase-auth-21.1.0\AndroidManifest.xml:42:21-48
+279            </intent-filter>
+280        </activity>
+281        <activity
+281-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\lenovo\.gradle\caches\transforms-3\008c82193b6f2232224c71e1b279ea74\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+282            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+282-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\lenovo\.gradle\caches\transforms-3\008c82193b6f2232224c71e1b279ea74\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+283            android:exported="false"
+283-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\lenovo\.gradle\caches\transforms-3\008c82193b6f2232224c71e1b279ea74\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+284            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+284-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\lenovo\.gradle\caches\transforms-3\008c82193b6f2232224c71e1b279ea74\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+285
+286        <provider
+286-->[com.google.firebase:firebase-common:20.3.0] C:\Users\lenovo\.gradle\caches\transforms-3\afb8dba7e1606ef6d7f4d1be914b2708\transformed\jetified-firebase-common-20.3.0\AndroidManifest.xml:25:9-30:39
+287            android:name="com.google.firebase.provider.FirebaseInitProvider"
+287-->[com.google.firebase:firebase-common:20.3.0] C:\Users\lenovo\.gradle\caches\transforms-3\afb8dba7e1606ef6d7f4d1be914b2708\transformed\jetified-firebase-common-20.3.0\AndroidManifest.xml:26:13-77
+288            android:authorities="com.geekymusketeers.medify.firebaseinitprovider"
+288-->[com.google.firebase:firebase-common:20.3.0] C:\Users\lenovo\.gradle\caches\transforms-3\afb8dba7e1606ef6d7f4d1be914b2708\transformed\jetified-firebase-common-20.3.0\AndroidManifest.xml:27:13-72
+289            android:directBootAware="true"
+289-->[com.google.firebase:firebase-common:20.3.0] C:\Users\lenovo\.gradle\caches\transforms-3\afb8dba7e1606ef6d7f4d1be914b2708\transformed\jetified-firebase-common-20.3.0\AndroidManifest.xml:28:13-43
+290            android:exported="false"
+290-->[com.google.firebase:firebase-common:20.3.0] C:\Users\lenovo\.gradle\caches\transforms-3\afb8dba7e1606ef6d7f4d1be914b2708\transformed\jetified-firebase-common-20.3.0\AndroidManifest.xml:29:13-37
+291            android:initOrder="100" />
+291-->[com.google.firebase:firebase-common:20.3.0] C:\Users\lenovo\.gradle\caches\transforms-3\afb8dba7e1606ef6d7f4d1be914b2708\transformed\jetified-firebase-common-20.3.0\AndroidManifest.xml:30:13-36
+292
+293        <receiver
+293-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\lenovo\.gradle\caches\transforms-3\4a09c229a6a1337a64d51aff23eb9c17\transformed\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:29:9-33:20
+294            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+294-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\lenovo\.gradle\caches\transforms-3\4a09c229a6a1337a64d51aff23eb9c17\transformed\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:30:13-85
+295            android:enabled="true"
+295-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\lenovo\.gradle\caches\transforms-3\4a09c229a6a1337a64d51aff23eb9c17\transformed\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:31:13-35
+296            android:exported="false" >
+296-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\lenovo\.gradle\caches\transforms-3\4a09c229a6a1337a64d51aff23eb9c17\transformed\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:32:13-37
+297        </receiver>
+298
+299        <service
+299-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\lenovo\.gradle\caches\transforms-3\4a09c229a6a1337a64d51aff23eb9c17\transformed\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:35:9-38:40
+300            android:name="com.google.android.gms.measurement.AppMeasurementService"
+300-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\lenovo\.gradle\caches\transforms-3\4a09c229a6a1337a64d51aff23eb9c17\transformed\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:36:13-84
+301            android:enabled="true"
+301-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\lenovo\.gradle\caches\transforms-3\4a09c229a6a1337a64d51aff23eb9c17\transformed\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:37:13-35
+302            android:exported="false" />
+302-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\lenovo\.gradle\caches\transforms-3\4a09c229a6a1337a64d51aff23eb9c17\transformed\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:38:13-37
+303        <service
+303-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\lenovo\.gradle\caches\transforms-3\4a09c229a6a1337a64d51aff23eb9c17\transformed\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:39:9-43:72
+304            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+304-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\lenovo\.gradle\caches\transforms-3\4a09c229a6a1337a64d51aff23eb9c17\transformed\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:40:13-87
+305            android:enabled="true"
+305-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\lenovo\.gradle\caches\transforms-3\4a09c229a6a1337a64d51aff23eb9c17\transformed\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:41:13-35
+306            android:exported="false"
+306-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\lenovo\.gradle\caches\transforms-3\4a09c229a6a1337a64d51aff23eb9c17\transformed\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:42:13-37
+307            android:permission="android.permission.BIND_JOB_SERVICE" />
+307-->[com.google.android.gms:play-services-measurement:21.2.0] C:\Users\lenovo\.gradle\caches\transforms-3\4a09c229a6a1337a64d51aff23eb9c17\transformed\jetified-play-services-measurement-21.2.0\AndroidManifest.xml:43:13-69
+308
+309        <meta-data
+309-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\03a713af833698898449d7d3228c7910\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+310            android:name="com.google.android.gms.version"
+310-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\03a713af833698898449d7d3228c7910\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+311            android:value="@integer/google_play_services_version" />
+311-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\03a713af833698898449d7d3228c7910\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+312
+313        <uses-library
+313-->[androidx.window:window:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\f7330db039c4144dfcdeee3a47504486\transformed\jetified-window-1.0.0\AndroidManifest.xml:25:9-27:40
+314            android:name="androidx.window.extensions"
+314-->[androidx.window:window:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\f7330db039c4144dfcdeee3a47504486\transformed\jetified-window-1.0.0\AndroidManifest.xml:26:13-54
+315            android:required="false" />
+315-->[androidx.window:window:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\f7330db039c4144dfcdeee3a47504486\transformed\jetified-window-1.0.0\AndroidManifest.xml:27:13-37
+316        <uses-library
+316-->[androidx.window:window:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\f7330db039c4144dfcdeee3a47504486\transformed\jetified-window-1.0.0\AndroidManifest.xml:28:9-30:40
+317            android:name="androidx.window.sidecar"
+317-->[androidx.window:window:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\f7330db039c4144dfcdeee3a47504486\transformed\jetified-window-1.0.0\AndroidManifest.xml:29:13-51
+318            android:required="false" />
+318-->[androidx.window:window:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\f7330db039c4144dfcdeee3a47504486\transformed\jetified-window-1.0.0\AndroidManifest.xml:30:13-37
+319
+320        <provider
+320-->[androidx.emoji2:emoji2:1.2.0] C:\Users\lenovo\.gradle\caches\transforms-3\6e3a1ac5a3631bdbd81edc6d017ef559\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+321            android:name="androidx.startup.InitializationProvider"
+321-->[androidx.emoji2:emoji2:1.2.0] C:\Users\lenovo\.gradle\caches\transforms-3\6e3a1ac5a3631bdbd81edc6d017ef559\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+322            android:authorities="com.geekymusketeers.medify.androidx-startup"
+322-->[androidx.emoji2:emoji2:1.2.0] C:\Users\lenovo\.gradle\caches\transforms-3\6e3a1ac5a3631bdbd81edc6d017ef559\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+323            android:exported="false" >
+323-->[androidx.emoji2:emoji2:1.2.0] C:\Users\lenovo\.gradle\caches\transforms-3\6e3a1ac5a3631bdbd81edc6d017ef559\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+324            <meta-data
+324-->[androidx.emoji2:emoji2:1.2.0] C:\Users\lenovo\.gradle\caches\transforms-3\6e3a1ac5a3631bdbd81edc6d017ef559\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+325                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+325-->[androidx.emoji2:emoji2:1.2.0] C:\Users\lenovo\.gradle\caches\transforms-3\6e3a1ac5a3631bdbd81edc6d017ef559\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+326                android:value="androidx.startup" />
+326-->[androidx.emoji2:emoji2:1.2.0] C:\Users\lenovo\.gradle\caches\transforms-3\6e3a1ac5a3631bdbd81edc6d017ef559\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+327            <meta-data
+327-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\lenovo\.gradle\caches\transforms-3\10cfcda21fc3e30a5f9757ed01591486\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+328                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+328-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\lenovo\.gradle\caches\transforms-3\10cfcda21fc3e30a5f9757ed01591486\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+329                android:value="androidx.startup" />
+329-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\lenovo\.gradle\caches\transforms-3\10cfcda21fc3e30a5f9757ed01591486\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+330        </provider>
+331
+332        <activity
+332-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\lenovo\.gradle\caches\transforms-3\0e3c40cc58dca67218130291ce2a5d10\transformed\jetified-zxing-android-embedded-4.3.0\AndroidManifest.xml:47:9-53:63
+333            android:name="com.journeyapps.barcodescanner.CaptureActivity"
+333-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\lenovo\.gradle\caches\transforms-3\0e3c40cc58dca67218130291ce2a5d10\transformed\jetified-zxing-android-embedded-4.3.0\AndroidManifest.xml:48:13-74
+334            android:clearTaskOnLaunch="true"
+334-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\lenovo\.gradle\caches\transforms-3\0e3c40cc58dca67218130291ce2a5d10\transformed\jetified-zxing-android-embedded-4.3.0\AndroidManifest.xml:49:13-45
+335            android:screenOrientation="sensorLandscape"
+335-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\lenovo\.gradle\caches\transforms-3\0e3c40cc58dca67218130291ce2a5d10\transformed\jetified-zxing-android-embedded-4.3.0\AndroidManifest.xml:50:13-56
+336            android:stateNotNeeded="true"
+336-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\lenovo\.gradle\caches\transforms-3\0e3c40cc58dca67218130291ce2a5d10\transformed\jetified-zxing-android-embedded-4.3.0\AndroidManifest.xml:51:13-42
+337            android:theme="@style/zxing_CaptureTheme"
+337-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\lenovo\.gradle\caches\transforms-3\0e3c40cc58dca67218130291ce2a5d10\transformed\jetified-zxing-android-embedded-4.3.0\AndroidManifest.xml:52:13-54
+338            android:windowSoftInputMode="stateAlwaysHidden" />
+338-->[com.journeyapps:zxing-android-embedded:4.3.0] C:\Users\lenovo\.gradle\caches\transforms-3\0e3c40cc58dca67218130291ce2a5d10\transformed\jetified-zxing-android-embedded-4.3.0\AndroidManifest.xml:53:13-60
+339    </application>
+340
+341</manifest>
