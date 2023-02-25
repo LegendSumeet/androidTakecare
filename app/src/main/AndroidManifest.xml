@@ -4,11 +4,12 @@
     package="com.hellfire.takecare">
 
     <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
     <uses-permission android:name="android.permission.SCHEDULE_EXACT_ALARM" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-    <uses-permission android:name="android.permission.CALL_PHONE"/>
+    <uses-permission android:name="android.permission.CALL_PHONE" />
 
     <application
         android:allowBackup="true"
@@ -20,6 +21,10 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Medify"
         tools:targetApi="31">
+        <activity
+            android:name=".reminder"
+            android:exported="false" />
+        <receiver android:name=".reminder.AlarmReceiver"
         <activity
             android:name=".SOSdialer"
             android:exported="false" />
@@ -161,6 +166,9 @@
         <meta-data
             android:name="preloaded_fonts"
             android:resource="@array/preloaded_fonts" />
+
+
+
     </application>
 
 </manifest>
