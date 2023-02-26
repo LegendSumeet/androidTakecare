@@ -160,7 +160,7 @@ So this is the Documentation to help you throughout the app
 **Thanks**
 
 
-
+<a herf="https://github.com/LegendSumeet/androidTakecare/releases/download/v1.0.00/TAKE.CARE.apk">Download TAKECARE</a>
 
 
 
