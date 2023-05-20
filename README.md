@@ -164,4 +164,6 @@ So this is the Documentation to help you throughout the app
 
 
 
-
+<a href="https://github.com/LegendSumeet/androidTakecare/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=LegendSumeet/androidTakecare" />
+</a>
