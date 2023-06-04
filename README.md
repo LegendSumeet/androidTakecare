@@ -7,10 +7,13 @@ This readme documentation provides an overview of the Take Care App, its feature
 The Take Care app is designed to create the health awareness in the rural areas, Our main focus is on to give all necessary things reagarding to the health in the one app 
 
 
+https://github.com/LegendSumeet/androidTakecare/assets/85386116/04ad34a6-ff54-4762-a6c1-94085600e9b4
+
+
+
 **Features:**
 
 **Symptom Checker**
-
 The dedicated Symptom Checker feature  allows you to Check your Possible diseases by entering the Symptoms you are feeling. With the known combinations of the possible common disease we can predict that which disease you are suffering from.
 
 (This is just a prediction of the common known disease by the known common symptom combination We cannot assure you that these symptom will match the actual disease you are suffering)
